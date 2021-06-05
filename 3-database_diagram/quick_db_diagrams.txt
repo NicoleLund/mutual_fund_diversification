@@ -1,0 +1,12 @@
+#######################################################################
+#
+# quick_db_diagrams.txt
+# ----
+# 
+# By Anne Niemiec 
+# 
+# This file contains the code for generating a DataBase Diagram from
+#
+# https://app.quickdatabasediagrams.com/
+# 
+#######################################################################
