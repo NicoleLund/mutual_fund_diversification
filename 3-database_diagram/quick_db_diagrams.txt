@@ -10,3 +10,21 @@
 # https://app.quickdatabasediagrams.com/
 # 
 #######################################################################
+
+sp500
+-
+ticker PK varchar(10)
+security_name varchar(255)
+gics_sector varchar(255)
+gics_sub_industry varchar(255)
+
+fund_holdings
+-
+ticker varchar(10) FK >- sp500.ticker
+security_name varchar(255)
+currency varchar(5)
+country varchar(50)
+price decimal
+quantity decimal
+market_value decimal
+fund_name varchar(255)
