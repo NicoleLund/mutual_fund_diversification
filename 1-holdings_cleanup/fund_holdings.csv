@@ -1,0 +1,1105 @@
+,ticker,security_name,currency,country,price,quantity,market_value,fund_name
+0,TWOU,"2U, Inc.",USD,United States,39.25,13298.0,521946.5,Voya Index Plus LargeCap Portfolio
+1,ABT,Abbott Laboratories,USD,United States,120.08,41778.0,5016702.24,Voya Index Plus LargeCap Portfolio
+2,ABBV,"AbbVie, Inc.",USD,United States,111.5,20026.0,2232899.0,Voya Index Plus LargeCap Portfolio
+3,ACAD,"Acadia Pharmaceuticals, Inc.",USD,United States,20.56,17198.0,353590.88,Voya Index Plus LargeCap Portfolio
+4,ACN,Accenture PLC,USD,United States,289.97,4271.0,1238461.87,Voya Index Plus LargeCap Portfolio
+5,AYI,"Acuity Brands, Inc.",USD,United States,185.52,14124.0,2620284.48,Voya Index Plus LargeCap Portfolio
+6,ADBE,"Adobe, Inc.",USD,United States,508.34,12826.0,6519968.84,Voya Index Plus LargeCap Portfolio
+7,AMD,"Advanced Micro Devices, Inc.",USD,United States,81.62,7428.0,606273.36,Voya Index Plus LargeCap Portfolio
+8,AGCO,AGCO Corp.,USD,United States,145.92,4231.0,617387.52,Voya Index Plus LargeCap Portfolio
+9,A,"Agilent Technologies, Inc.",USD,United States,133.64,17973.0,2401911.72,Voya Index Plus LargeCap Portfolio
+10,AKAM,"Akamai Technologies, Inc.",USD,United States,108.7,17831.0,1938229.7,Voya Index Plus LargeCap Portfolio
+11,ACI,"Albertsons Cos, Inc.",USD,United States,18.57,29395.0,545865.15,Voya Index Plus LargeCap Portfolio
+12,ALXN,"Alexion Pharmaceuticals, Inc.",USD,United States,168.68,14359.0,2422076.12,Voya Index Plus LargeCap Portfolio
+13,ALGN,"Align Technology, Inc.",USD,United States,595.53,1765.0,1051110.45,Voya Index Plus LargeCap Portfolio
+14,ALKS,Alkermes PLC,USD,United States,22.005,25471.0,560489.36,Voya Index Plus LargeCap Portfolio
+15,ALSN,"Allison Transmission Holdings, Inc.",USD,United States,41.47,55513.0,2302124.11,Voya Index Plus LargeCap Portfolio
+16,ALL,Allstate Corp.,USD,United States,126.8,39260.0,4978168.0,Voya Index Plus LargeCap Portfolio
+17,ALLY,"Ally Financial, Inc.",USD,United States,51.45,31173.0,1603850.85,Voya Index Plus LargeCap Portfolio
+18,GOOGL,"Alphabet, Inc. - Class A",USD,United States,2353.5,15510.0,36502785.0,Voya Index Plus LargeCap Portfolio
+19,ATUS,"Altice USA, Inc.",USD,United States,36.31,91623.0,3326831.13,Voya Index Plus LargeCap Portfolio
+20,MO,"Altria Group, Inc.",USD,United States,47.75,129817.0,6198761.75,Voya Index Plus LargeCap Portfolio
+21,AMZN,"Amazon.com, Inc.",USD,United States,3467.42,12680.0,43966885.6,Voya Index Plus LargeCap Portfolio
+22,DOX,Amdocs Ltd.,USD,United States,76.74,46136.0,3540476.64,Voya Index Plus LargeCap Portfolio
+23,AMH,American Homes 4 Rent,USD,United States,37.04,17744.0,657237.76,Voya Index Plus LargeCap Portfolio
+24,AMT,American Tower Corp.,USD,United States,254.77,11999.0,3056985.23,Voya Index Plus LargeCap Portfolio
+25,AWK,"American Water Works Co., Inc.",USD,United States,155.99,29984.0,4677204.16,Voya Index Plus LargeCap Portfolio
+26,AMP,"Ameriprise Financial, Inc.",USD,United States,258.4,20951.0,5413738.4,Voya Index Plus LargeCap Portfolio
+27,AME,"Ametek, Inc.",USD,United States,134.93,32591.0,4397503.63,Voya Index Plus LargeCap Portfolio
+28,PLAN,"Anaplan, Inc.",USD,United States,59.65,16755.0,999435.75,Voya Index Plus LargeCap Portfolio
+29,ANTM,"Anthem, Inc.",USD,United States,379.39,15727.0,5966666.53,Voya Index Plus LargeCap Portfolio
+30,AOS,AO Smith Corp.,USD,United States,67.75,10218.0,692269.5,Voya Index Plus LargeCap Portfolio
+31,AON,Aon PLC,USD,United States,251.44,9399.0,2363284.56,Voya Index Plus LargeCap Portfolio
+32,APA,APA Corp.,USD,United States,20.0,24354.0,487080.0,Voya Index Plus LargeCap Portfolio
+33,AIRC,Apartment Income REIT Corp.,USD,United States,45.15,10963.0,494979.45,Voya Index Plus LargeCap Portfolio
+34,AAPL,"Apple, Inc.",USD,United States,131.46,388022.0,51009372.120000005,Voya Index Plus LargeCap Portfolio
+35,AMAT,"Applied Materials, Inc.",USD,United States,132.71,60185.0,7987151.35,Voya Index Plus LargeCap Portfolio
+36,ARW,"Arrow Electronics, Inc.",USD,United States,114.07,18612.0,2123070.84,Voya Index Plus LargeCap Portfolio
+37,ASGN,"ASGN, Inc.",USD,United States,105.18,4614.0,485300.52,Voya Index Plus LargeCap Portfolio
+38,ASH,"Ashland Global Holdings, Inc.",USD,United States,86.21,12293.0,1059779.53,Voya Index Plus LargeCap Portfolio
+39,AN,"Autonation, Inc.",USD,United States,102.48,5142.0,526952.16,Voya Index Plus LargeCap Portfolio
+40,AVLR,"Avalara, Inc.",USD,United States,141.71,3248.0,460274.08,Voya Index Plus LargeCap Portfolio
+41,AVNT,Avient Corp.,USD,United States,50.77,17826.0,905026.02,Voya Index Plus LargeCap Portfolio
+42,AVT,"Avnet, Inc.",USD,United States,43.92,34627.0,1520817.84,Voya Index Plus LargeCap Portfolio
+43,AXTA,Axalta Coating Systems Ltd.,USD,United States,31.89,96210.0,3068136.9,Voya Index Plus LargeCap Portfolio
+44,BAC,Bank of America Corp.,USD,United States,40.53,67576.0,2738855.28,Voya Index Plus LargeCap Portfolio
+46,BDX,Becton Dickinson & Co.,USD,United States,248.81,6988.0,1738684.28,Voya Index Plus LargeCap Portfolio
+47,BRK/B,"Berkshire Hathaway, Inc.  Class B",USD,United States,274.95,35817.0,9847884.15,Voya Index Plus LargeCap Portfolio
+48,BIGC,"BigCommerce Holdings, Inc.",USD,United States,59.94,7981.0,478381.14,Voya Index Plus LargeCap Portfolio
+49,BIO,"Bio-Rad Laboratories, Inc.",USD,United States,630.13,780.0,491501.4,Voya Index Plus LargeCap Portfolio
+50,BKH,Black Hills Corp.,USD,United States,68.98,19133.0,1319794.34,Voya Index Plus LargeCap Portfolio
+51,TFDXX,"BlackRock Liquidity Funds, FedFund, Institutional Class",USD,United States,1.0,4007000.0,4007000.0,Voya Index Plus LargeCap Portfolio
+52,BLK,"Blackrock, Inc.",USD,United States,819.3,9636.0,7894774.8,Voya Index Plus LargeCap Portfolio
+53,BWA,"BorgWarner, Inc.",USD,United States,48.58,19037.0,924817.46,Voya Index Plus LargeCap Portfolio
+54,BYD,Boyd Gaming Corp.,USD,United States,66.15,10341.0,684057.15,Voya Index Plus LargeCap Portfolio
+55,BMY,Bristol-Myers Squibb Co.,USD,United States,62.42,108990.0,6803155.8,Voya Index Plus LargeCap Portfolio
+56,CBT,Cabot Corp.,USD,United States,54.88,48841.0,2680394.08,Voya Index Plus LargeCap Portfolio
+57,CACI,"CACI International, Inc.",USD,United States,254.86,5912.0,1506732.32,Voya Index Plus LargeCap Portfolio
+58,CDNS,"Cadence Design Systems, Inc.",USD,United States,131.77,25643.0,3378978.11,Voya Index Plus LargeCap Portfolio
+59,COF,Capital One Financial Corp.,USD,United States,149.08,41089.0,6125548.12,Voya Index Plus LargeCap Portfolio
+60,CSL,"Carlisle Cos., Inc.",USD,United States,191.65,5635.0,1079947.75,Voya Index Plus LargeCap Portfolio
+61,KMX,"Carmax, Inc.",USD,United States,133.24,16442.0,2190732.08,Voya Index Plus LargeCap Portfolio
+62,CVNA,Carvana Co.,USD,United States,285.26,2573.0,733973.98,Voya Index Plus LargeCap Portfolio
+63,CBRE,"CBRE Group, Inc.",USD,United States,85.2,8206.0,699151.2,Voya Index Plus LargeCap Portfolio
+64,CNC,Centene Corp.,USD,United States,61.74,24698.0,1524854.52,Voya Index Plus LargeCap Portfolio
+65,CHX,ChampionX Corp.,USD,United States,21.01,21892.0,459950.92,Voya Index Plus LargeCap Portfolio
+66,CHTR,"Charter Communications, Inc.",USD,United States,673.45,9657.0,6503506.65,Voya Index Plus LargeCap Portfolio
+67,CVX,Chevron Corp.,USD,United States,103.07,30087.0,3101067.09,Voya Index Plus LargeCap Portfolio
+68,CMG,"Chipotle Mexican Grill, Inc.",USD,United States,1492.03,371.0,553543.13,Voya Index Plus LargeCap Portfolio
+69,CI,Cigna Corp.,USD,United States,249.01,19555.0,4869390.55,Voya Index Plus LargeCap Portfolio
+70,CSCO,"Cisco Systems, Inc.",USD,United States,50.91,170032.0,8656329.12,Voya Index Plus LargeCap Portfolio
+71,C,"Citigroup, Inc.",USD,United States,71.24,84444.0,6015790.56,Voya Index Plus LargeCap Portfolio
+72,CFG,"Citizens Financial Group, Inc.",USD,United States,46.28,41655.0,1927793.4,Voya Index Plus LargeCap Portfolio
+73,CLH,"Clean Harbors, Inc.",USD,United States,88.96,5404.0,480739.84,Voya Index Plus LargeCap Portfolio
+74,CL,Colgate-Palmolive Co.,USD,United States,80.7,69715.0,5626000.5,Voya Index Plus LargeCap Portfolio
+75,CMCSA,Comcast Corp.  Class A,USD,United States,56.15,164487.0,9235945.049999999,Voya Index Plus LargeCap Portfolio
+76,CMC,Commercial Metals Co.,USD,United States,29.22,22308.0,651839.76,Voya Index Plus LargeCap Portfolio
+77,CVLT,"Commvault Systems, Inc.",USD,United States,69.51,18416.0,1280096.16,Voya Index Plus LargeCap Portfolio
+78,COP,ConocoPhillips,USD,United States,51.14,60973.0,3118159.22,Voya Index Plus LargeCap Portfolio
+79,CPRT,"Copart, Inc.",USD,United States,124.51,37421.0,4659288.71,Voya Index Plus LargeCap Portfolio
+80,OFC,Corporate Office Properties Trust SBI MD,USD,United States,28.04,69773.0,1956434.92,Voya Index Plus LargeCap Portfolio
+81,CSGP,"CoStar Group, Inc.",USD,United States,854.43,3490.0,2981960.7,Voya Index Plus LargeCap Portfolio
+82,COST,Costco Wholesale Corp.,USD,United States,372.09,16232.0,6039764.88,Voya Index Plus LargeCap Portfolio
+83,CMI,"Cummins, Inc.",USD,United States,252.04,1743.0,439305.72,Voya Index Plus LargeCap Portfolio
+84,CVS,CVS Health Corp.,USD,United States,76.4,11700.0,893880.0,Voya Index Plus LargeCap Portfolio
+85,DDOG,"Datadog, Inc.",USD,United States,85.77,8414.0,721668.78,Voya Index Plus LargeCap Portfolio
+86,DECK,Deckers Outdoor Corp.,USD,United States,338.2,9761.0,3301170.2,Voya Index Plus LargeCap Portfolio
+87,DE,Deere & Co.,USD,United States,370.85,14355.0,5323551.75,Voya Index Plus LargeCap Portfolio
+88,DVN,Devon Energy Corp.,USD,United States,23.38,59583.0,1393050.54,Voya Index Plus LargeCap Portfolio
+89,DXCM,"DexCom, Inc.",USD,United States,386.1,1273.0,491505.3,Voya Index Plus LargeCap Portfolio
+90,D,"Dominion Energy, Inc.",USD,United States,79.9,8615.0,688338.5,Voya Index Plus LargeCap Portfolio
+91,DOW,"Dow, Inc.",USD,United States,62.5,35402.0,2212625.0,Voya Index Plus LargeCap Portfolio
+92,DBX,"Dropbox, Inc.",USD,United States,25.7,109894.0,2824275.8,Voya Index Plus LargeCap Portfolio
+93,DTE,DTE Energy Co.,USD,United States,140.02,3457.0,484049.14,Voya Index Plus LargeCap Portfolio
+94,DRE,Duke Realty Corp.,USD,United States,46.52,18024.0,838476.48,Voya Index Plus LargeCap Portfolio
+95,DXC,DXC Technology Co.,USD,United States,32.91,22736.0,748241.76,Voya Index Plus LargeCap Portfolio
+96,EMN,Eastman Chemical Co.,USD,United States,115.39,24931.0,2876788.09,Voya Index Plus LargeCap Portfolio
+97,ETN,Eaton Corp. PLC,USD,United States,142.93,12301.0,1758181.93,Voya Index Plus LargeCap Portfolio
+98,EBAY,"eBay, Inc.",USD,United States,55.79,16815.0,938108.85,Voya Index Plus LargeCap Portfolio
+99,EW,Edwards Lifesciences Corp.,USD,United States,95.52,59671.0,5699773.92,Voya Index Plus LargeCap Portfolio
+100,LLY,Eli Lilly & Co.,USD,United States,182.77,14787.0,2702619.99,Voya Index Plus LargeCap Portfolio
+101,EME,"EMCOR Group, Inc.",USD,United States,119.8,14784.0,1771123.2,Voya Index Plus LargeCap Portfolio
+102,EMR,Emerson Electric Co.,USD,United States,90.49,23770.0,2150947.3,Voya Index Plus LargeCap Portfolio
+103,ETR,Entergy Corp.,USD,United States,109.29,42909.0,4689524.61,Voya Index Plus LargeCap Portfolio
+104,EOG,"EOG Resources, Inc.",USD,United States,73.64,10209.0,751790.76,Voya Index Plus LargeCap Portfolio
+105,EPAM,"EPAM Systems, Inc.",USD,United States,457.75,6309.0,2887944.75,Voya Index Plus LargeCap Portfolio
+106,EQIX,"Equinix, Inc.",USD,United States,720.76,3346.0,2411662.96,Voya Index Plus LargeCap Portfolio
+107,ETRN,Equitrans Midstream Corp.,USD,United States,8.16,102710.0,838113.6,Voya Index Plus LargeCap Portfolio
+108,EL,"Estee Lauder Cos., Inc.",USD,United States,313.8,9386.0,2945326.8,Voya Index Plus LargeCap Portfolio
+109,ETSY,"Etsy, Inc.",USD,United States,198.79,2930.0,582454.7,Voya Index Plus LargeCap Portfolio
+110,EEFT,"Euronet Worldwide, Inc.",USD,United States,143.43,8776.0,1258741.68,Voya Index Plus LargeCap Portfolio
+111,EVRG,"Evergy, Inc.",USD,United States,63.97,73885.0,4726423.45,Voya Index Plus LargeCap Portfolio
+112,XOM,Exxon Mobil Corp.,USD,United States,57.24,26486.0,1516058.64,Voya Index Plus LargeCap Portfolio
+113,FFIV,"F5 Networks, Inc.",USD,United States,186.76,15354.0,2867513.04,Voya Index Plus LargeCap Portfolio
+114,FB,"Facebook, Inc.- Class A",USD,United States,325.08,77527.0,25202477.16,Voya Index Plus LargeCap Portfolio
+115,FDX,FedEx Corp.,USD,United States,290.31,21236.0,6165023.16,Voya Index Plus LargeCap Portfolio
+116,FAF,First American Financial Corp.,USD,United States,64.5,37042.0,2389209.0,Voya Index Plus LargeCap Portfolio
+117,FMC,FMC Corp.,USD,United States,118.24,27325.0,3230908.0,Voya Index Plus LargeCap Portfolio
+118,FTV,Fortive Corp.,USD,United States,70.82,57571.0,4077178.22,Voya Index Plus LargeCap Portfolio
+119,FBHS,"Fortune Brands Home & Security, Inc.",USD,United States,104.98,19181.0,2013621.38,Voya Index Plus LargeCap Portfolio
+120,FOXA,Fox Corp. - Class A,USD,United States,37.42,38073.0,1424691.66,Voya Index Plus LargeCap Portfolio
+121,FCX,"Freeport-McMoRan, Inc.",USD,United States,37.71,65822.0,2482147.62,Voya Index Plus LargeCap Portfolio
+122,GLPI,"Gaming and Leisure Properties, Inc.",USD,United States,46.49,56695.0,2635750.55,Voya Index Plus LargeCap Portfolio
+123,GRMN,Garmin Ltd.,USD,United States,137.24,4594.0,630480.56,Voya Index Plus LargeCap Portfolio
+124,IT,"Gartner, Inc.",USD,United States,195.88,3203.0,627403.64,Voya Index Plus LargeCap Portfolio
+125,GNRC,"Generac Holdings, Inc.",USD,United States,323.95,2225.0,720788.75,Voya Index Plus LargeCap Portfolio
+126,GE,General Electric Co.,USD,United States,13.12,91625.0,1202120.0,Voya Index Plus LargeCap Portfolio
+127,G,Genpact Ltd.,USD,United States,47.53,27852.0,1323805.56,Voya Index Plus LargeCap Portfolio
+128,GNTX,Gentex Corp.,USD,United States,35.18,58649.0,2063271.82,Voya Index Plus LargeCap Portfolio
+129,GL,"Globe Life, Inc.",USD,United States,102.49,5513.0,565027.37,Voya Index Plus LargeCap Portfolio
+130,GDDY,"GoDaddy, Inc.",USD,United States,86.82,37756.0,3277975.92,Voya Index Plus LargeCap Portfolio
+131,EAF,GrafTech International Ltd.,USD,United States,12.72,108138.0,1375515.36,Voya Index Plus LargeCap Portfolio
+132,HAL,Halliburton Co.,USD,United States,19.56,29236.0,571856.16,Voya Index Plus LargeCap Portfolio
+133,HEI,Heico Corp.,USD,United States,140.8,3650.0,513920.0,Voya Index Plus LargeCap Portfolio
+134,HLF,Herbalife Nutrition Ltd.,USD,United States,45.77,17910.0,819740.7,Voya Index Plus LargeCap Portfolio
+135,HSY,Hershey Co.,USD,United States,164.3,5919.0,972491.7,Voya Index Plus LargeCap Portfolio
+136,HIW,"Highwoods Properties, Inc.",USD,United States,44.79,49296.0,2207967.84,Voya Index Plus LargeCap Portfolio
+137,HLT,"Hilton Worldwide Holdings, Inc.",USD,United States,128.7,30541.0,3930626.7,Voya Index Plus LargeCap Portfolio
+138,HD,"Home Depot, Inc.",USD,United States,323.67,27174.0,8795408.58,Voya Index Plus LargeCap Portfolio
+139,HON,"Honeywell International, Inc.",USD,United States,223.04,26196.0,5842755.84,Voya Index Plus LargeCap Portfolio
+140,HUBS,"HubSpot, Inc.",USD,United States,526.45,2485.0,1308228.25,Voya Index Plus LargeCap Portfolio
+141,HUM,"Humana, Inc.",USD,United States,445.24,9387.0,4179467.88,Voya Index Plus LargeCap Portfolio
+142,HUN,Huntsman Corp.,USD,United States,28.67,21757.0,623773.19,Voya Index Plus LargeCap Portfolio
+143,INCY,"Incyte Corp., Ltd.",USD,United States,85.38,43347.0,3700966.86,Voya Index Plus LargeCap Portfolio
+144,INTC,Intel Corp.,USD,United States,57.53,97321.0,5598877.13,Voya Index Plus LargeCap Portfolio
+145,IPG,"Interpublic Group of Cos., Inc.",USD,United States,31.75,96224.0,3055112.0,Voya Index Plus LargeCap Portfolio
+146,INTU,"Intuit, Inc.",USD,United States,412.16,10938.0,4508206.08,Voya Index Plus LargeCap Portfolio
+147,INVH,"Invitation Homes, Inc.",USD,United States,35.06,120464.0,4223467.84,Voya Index Plus LargeCap Portfolio
+148,IRDM,"Iridium Communications, Inc.",USD,United States,37.99,48462.0,1841071.38,Voya Index Plus LargeCap Portfolio
+149,ITT,"ITT, Inc.",USD,United States,94.31,12033.0,1134832.23,Voya Index Plus LargeCap Portfolio
+150,JBL,"Jabil, Inc.",USD,United States,52.42,12226.0,640886.92,Voya Index Plus LargeCap Portfolio
+151,JAZZ,Jazz Pharmaceuticals PLC,USD,United States,164.4,9157.0,1505410.8,Voya Index Plus LargeCap Portfolio
+152,JNJ,Johnson & Johnson,USD,United States,162.73,78636.0,12796436.28,Voya Index Plus LargeCap Portfolio
+153,JCI,Johnson Controls International plc,USD,United States,62.34,38292.0,2387123.28,Voya Index Plus LargeCap Portfolio
+154,JPM,JPMorgan Chase & Co.,USD,United States,153.81,121995.0,18764050.95,Voya Index Plus LargeCap Portfolio
+155,KBH,KB Home,USD,United States,48.23,10264.0,495032.72,Voya Index Plus LargeCap Portfolio
+156,KBR,"KBR, Inc.",USD,United States,39.56,21478.0,849669.68,Voya Index Plus LargeCap Portfolio
+157,KLAC,KLA Corp.,USD,United States,315.35,11554.0,3643553.9,Voya Index Plus LargeCap Portfolio
+158,KNX,"Knight-Swift Transportation Holdings, Inc.",USD,United States,47.12,27789.0,1309417.68,Voya Index Plus LargeCap Portfolio
+159,KSS,Kohl's Corp.,USD,United States,58.66,14328.0,840480.48,Voya Index Plus LargeCap Portfolio
+160,LRCX,Lam Research Corp.,USD,United States,620.45,10487.0,6506659.15,Voya Index Plus LargeCap Portfolio
+161,LDOS,"Leidos Holdings, Inc.",USD,United States,101.28,15877.0,1608022.56,Voya Index Plus LargeCap Portfolio
+162,LEN,Lennar Corp. - Class A,USD,United States,103.6,25915.0,2684794.0,Voya Index Plus LargeCap Portfolio
+163,LBTYA,Liberty Global PLC - Class A,USD,United States,26.9,49647.0,1335504.3,Voya Index Plus LargeCap Portfolio
+164,LSXMK,Liberty Media Corp.- Liberty SiriusXM C Tracking Stock,USD,United States,45.23,13558.0,613228.34,Voya Index Plus LargeCap Portfolio
+165,LAD,"Lithia Motors, Inc.",USD,United States,384.38,1199.0,460871.62,Voya Index Plus LargeCap Portfolio
+166,LKQ,LKQ Corp.,USD,United States,46.71,73304.0,3424029.84,Voya Index Plus LargeCap Portfolio
+167,LPX,Louisiana-Pacific Corp.,USD,United States,65.88,27371.0,1803201.48,Voya Index Plus LargeCap Portfolio
+168,LOW,"Lowe's Cos, Inc.",USD,United States,196.25,5442.0,1067992.5,Voya Index Plus LargeCap Portfolio
+169,LPLA,"LPL Financial Holdings, Inc.",USD,United States,156.7,13475.0,2111532.5,Voya Index Plus LargeCap Portfolio
+170,MPC,Marathon Petroleum Corp.,USD,United States,55.65,28367.0,1578623.55,Voya Index Plus LargeCap Portfolio
+171,MAS,Masco Corp.,USD,United States,63.88,55090.0,3519149.2,Voya Index Plus LargeCap Portfolio
+172,MA,"Mastercard, Inc. - Class A",USD,United States,382.06,7445.0,2844436.7,Voya Index Plus LargeCap Portfolio
+173,MCD,McDonald's Corp.,USD,United States,236.08,11884.0,2805574.72,Voya Index Plus LargeCap Portfolio
+174,MCK,McKesson Corp.,USD,United States,187.56,9131.0,1712610.36,Voya Index Plus LargeCap Portfolio
+175,MDT,Medtronic PLC,USD,Ireland,130.92,86562.0,11332697.04,Voya Index Plus LargeCap Portfolio
+176,MRK,"Merck & Co., Inc.",USD,United States,74.5,110034.0,8197533.0,Voya Index Plus LargeCap Portfolio
+177,MET,"Metlife, Inc.",USD,United States,63.63,79885.0,5083082.55,Voya Index Plus LargeCap Portfolio
+178,MSFT,Microsoft Corp.,USD,United States,252.18,224359.0,56578852.620000005,Voya Index Plus LargeCap Portfolio
+179,MDLZ,"Mondelez International, Inc.",USD,United States,60.81,83421.0,5072831.01,Voya Index Plus LargeCap Portfolio
+180,MPWR,"Monolithic Power Systems, Inc.",USD,United States,361.38,2875.0,1038967.5,Voya Index Plus LargeCap Portfolio
+181,MNST,Monster Beverage Corp.,USD,United States,97.05,44373.0,4306399.65,Voya Index Plus LargeCap Portfolio
+182,MSCI,"MSCI, Inc. - Class A",USD,United States,485.77,4336.0,2106298.72,Voya Index Plus LargeCap Portfolio
+183,NFG,National Fuel Gas Co.,USD,United States,49.66,30942.0,1536579.72,Voya Index Plus LargeCap Portfolio
+184,NTAP,"NetApp, Inc.",USD,United States,74.69,18247.0,1362868.43,Voya Index Plus LargeCap Portfolio
+185,NFLX,"NetFlix, Inc.",USD,United States,513.47,11932.0,6126724.04,Voya Index Plus LargeCap Portfolio
+186,NYT,New York Times Co.,USD,United States,45.41,10212.0,463726.92,Voya Index Plus LargeCap Portfolio
+187,NWSA,News Corp - Class A,USD,United States,26.195,17046.0,446519.97,Voya Index Plus LargeCap Portfolio
+188,NXST,"Nexstar Media Group, Inc.",USD,United States,147.41,2982.0,439576.62,Voya Index Plus LargeCap Portfolio
+189,NEE,"NextEra Energy, Inc.",USD,United States,77.51,21854.0,1693903.54,Voya Index Plus LargeCap Portfolio
+190,NKE,"Nike, Inc.",USD,United States,132.62,4474.0,593341.88,Voya Index Plus LargeCap Portfolio
+191,NVDA,Nvidia Corp.,USD,United States,600.38,11406.0,6847934.28,Voya Index Plus LargeCap Portfolio
+192,NVR,"NVR, Inc.",USD,United States,5018.1,247.0,1239470.7,Voya Index Plus LargeCap Portfolio
+193,ODFL,Old Dominion Freight Line,USD,United States,257.81,4210.0,1085380.1,Voya Index Plus LargeCap Portfolio
+194,ORI,Old Republic International Corp.,USD,United States,24.62,110506.0,2720657.72,Voya Index Plus LargeCap Portfolio
+195,OC,"Owens Corning, Inc.",USD,United States,96.81,8283.0,801877.23,Voya Index Plus LargeCap Portfolio
+196,PANW,"Palo Alto Networks, Inc.",USD,United States,353.39,5368.0,1896997.52,Voya Index Plus LargeCap Portfolio
+197,PH,Parker Hannifin Corp.,USD,United States,313.81,3100.0,972811.0,Voya Index Plus LargeCap Portfolio
+198,PYPL,"PayPal Holdings, Inc.",USD,United States,262.29,44186.0,11589545.94,Voya Index Plus LargeCap Portfolio
+199,PENN,"Penn National Gaming, Inc.",USD,United States,89.12,4940.0,440252.8,Voya Index Plus LargeCap Portfolio
+200,PNR,Pentair PLC,USD,United States,64.51,10770.0,694772.7,Voya Index Plus LargeCap Portfolio
+201,PEP,"PepsiCo, Inc.",USD,United States,144.16,77475.0,11168796.0,Voya Index Plus LargeCap Portfolio
+202,PM,"Philip Morris International, Inc.",USD,United States,95.0,90030.0,8552850.0,Voya Index Plus LargeCap Portfolio
+203,PSX,Phillips 66,USD,United States,80.91,32514.0,2630707.74,Voya Index Plus LargeCap Portfolio
+204,PNW,Pinnacle West Capital Corp.,USD,United States,84.65,6874.0,581884.1,Voya Index Plus LargeCap Portfolio
+205,PXD,Pioneer Natural Resources Co.,USD,United States,153.83,14323.0,2203307.09,Voya Index Plus LargeCap Portfolio
+206,POOL,Pool Corp.,USD,United States,422.52,1924.0,812928.48,Voya Index Plus LargeCap Portfolio
+207,BPOP,"Popular, Inc.",USD,United States,73.96,9555.0,706687.8,Voya Index Plus LargeCap Portfolio
+208,PCH,PotlatchDeltic Corp.,USD,United States,59.36,31610.0,1876369.6,Voya Index Plus LargeCap Portfolio
+209,PG,Procter & Gamble Co.,USD,United States,133.42,22609.0,3016492.78,Voya Index Plus LargeCap Portfolio
+210,PEG,"Public Service Enterprise Group, Inc.",USD,United States,63.16,41081.0,2594675.96,Voya Index Plus LargeCap Portfolio
+211,PHM,"Pulte Group, Inc.",USD,United States,59.12,29730.0,1757637.6,Voya Index Plus LargeCap Portfolio
+212,PSTG,"Pure Storage, Inc.",USD,United States,20.22,84935.0,1717385.7,Voya Index Plus LargeCap Portfolio
+213,QCOM,"Qualcomm, Inc.",USD,United States,138.8,51948.0,7210382.4,Voya Index Plus LargeCap Portfolio
+214,QLYS,"Qualys, Inc.",USD,United States,101.36,7092.0,718845.12,Voya Index Plus LargeCap Portfolio
+215,QDEL,Quidel Corp.,USD,United States,104.79,6664.0,698320.56,Voya Index Plus LargeCap Portfolio
+216,RBC,Regal Beloit Corp.,USD,United States,144.43,11302.0,1632347.86,Voya Index Plus LargeCap Portfolio
+217,REGN,"Regeneron Pharmaceuticals, Inc.",USD,United States,481.3,7070.0,3402791.0,Voya Index Plus LargeCap Portfolio
+218,RF,Regions Financial Corp.,USD,United States,21.8,63389.0,1381880.2,Voya Index Plus LargeCap Portfolio
+219,ROK,"Rockwell Automation, Inc.",USD,United States,264.26,11353.0,3000143.78,Voya Index Plus LargeCap Portfolio
+220,ROKU,"Roku, Inc.",USD,United States,342.97,2133.0,731555.01,Voya Index Plus LargeCap Portfolio
+221,ROP,"Roper Technologies, Inc.",USD,United States,446.44,10305.0,4600564.2,Voya Index Plus LargeCap Portfolio
+222,RGLD,"Royal Gold, Inc.",USD,United States,111.86,20840.0,2331162.4,Voya Index Plus LargeCap Portfolio
+223,RPM,"RPM International, Inc.",USD,United States,94.84,8997.0,853275.48,Voya Index Plus LargeCap Portfolio
+224,R,"Ryder System, Inc.",USD,United States,79.84,18185.0,1451890.4,Voya Index Plus LargeCap Portfolio
+225,SPGI,"S&P Global, Inc.",USD,United States,390.39,19163.0,7481043.57,Voya Index Plus LargeCap Portfolio
+227,CRM,"Salesforce.com, Inc.",USD,United States,230.32,11907.0,2742420.24,Voya Index Plus LargeCap Portfolio
+228,SGMS,Scientific Games Corp.,USD,United States,58.52,11450.0,670054.0,Voya Index Plus LargeCap Portfolio
+229,SRE,Sempra Energy,USD,United States,137.57,3976.0,546978.32,Voya Index Plus LargeCap Portfolio
+230,NOW,"ServiceNow, Inc.",USD,United States,506.37,3113.0,1576329.81,Voya Index Plus LargeCap Portfolio
+231,SHW,Sherwin-Williams Co.,USD,United States,273.87,4932.0,1350726.84,Voya Index Plus LargeCap Portfolio
+232,SRC,"Spirit Realty Capital, Inc.",USD,United States,47.54,32876.0,1562925.04,Voya Index Plus LargeCap Portfolio
+233,SFM,"Sprouts Farmers Market, Inc.",USD,United States,25.61,29374.0,752268.14,Voya Index Plus LargeCap Portfolio
+234,SF,Stifel Financial Corp.,USD,United States,69.19,30059.0,2079782.21,Voya Index Plus LargeCap Portfolio
+235,SYF,Synchrony Financial,USD,United States,43.74,71300.0,3118662.0,Voya Index Plus LargeCap Portfolio
+236,SNX,SYNNEX Corp.,USD,United States,121.2,19612.0,2376974.4,Voya Index Plus LargeCap Portfolio
+237,SNPS,"Synopsys, Inc.",USD,United States,247.06,16773.0,4143937.38,Voya Index Plus LargeCap Portfolio
+238,TROW,"T. Rowe Price Group, Inc.",USD,United States,179.2,28085.0,5032832.0,Voya Index Plus LargeCap Portfolio
+239,TRGP,Targa Resources Corp.,USD,United States,34.69,66912.0,2321177.28,Voya Index Plus LargeCap Portfolio
+240,TGT,Target Corp.,USD,United States,207.26,17215.0,3567980.9,Voya Index Plus LargeCap Portfolio
+241,TMHC,Taylor Morrison Home Corp.,USD,United States,31.21,32322.0,1008769.62,Voya Index Plus LargeCap Portfolio
+242,TER,"Teradyne, Inc.",USD,United States,125.08,24207.0,3027811.56,Voya Index Plus LargeCap Portfolio
+243,TSLA,"Tesla, Inc.",USD,United States,709.44,19548.0,13868133.12,Voya Index Plus LargeCap Portfolio
+244,TXN,"Texas Instruments, Inc.",USD,United States,180.51,18527.0,3344308.77,Voya Index Plus LargeCap Portfolio
+245,TMO,"Thermo Fisher Scientific, Inc.",USD,United States,470.23,16091.0,7566470.93,Voya Index Plus LargeCap Portfolio
+246,TJX,"TJX Cos., Inc.",USD,United States,71.0,13136.0,932656.0,Voya Index Plus LargeCap Portfolio
+247,TSCO,Tractor Supply Co.,USD,United States,188.6,19607.0,3697880.2,Voya Index Plus LargeCap Portfolio
+248,TNL,Travel + Leisure Co.,USD,United States,64.53,10003.0,645493.59,Voya Index Plus LargeCap Portfolio
+249,TPH,"Tri Pointe Homes, Inc.",USD,United States,23.82,66825.0,1591771.5,Voya Index Plus LargeCap Portfolio
+250,UGI,UGI Corp.,USD,United States,43.71,62497.0,2731743.87,Voya Index Plus LargeCap Portfolio
+251,ULTA,"Ulta Beauty, Inc.",USD,United States,329.35,4944.0,1628306.4,Voya Index Plus LargeCap Portfolio
+252,UNP,Union Pacific Corp.,USD,United States,222.09,20998.0,4663445.82,Voya Index Plus LargeCap Portfolio
+253,UNH,"UnitedHealth Group, Inc.",USD,United States,398.8,36666.0,14622400.8,Voya Index Plus LargeCap Portfolio
+254,UNVR,"Univar Solutions, Inc.",USD,United States,23.35,22198.0,518323.3,Voya Index Plus LargeCap Portfolio
+255,UNM,Unum Group,USD,United States,28.26,28748.0,812418.48,Voya Index Plus LargeCap Portfolio
+256,VER,"VEREIT, Inc.",USD,United States,47.84,12245.0,585800.8,Voya Index Plus LargeCap Portfolio
+257,VZ,"Verizon Communications, Inc.",USD,United States,57.79,28037.0,1620258.23,Voya Index Plus LargeCap Portfolio
+258,VRTX,"Vertex Pharmaceuticals, Inc.",USD,United States,218.2,20610.0,4497102.0,Voya Index Plus LargeCap Portfolio
+259,VIAC,"ViacomCBS, Inc.",USD,United States,41.02,9945.0,407943.9,Voya Index Plus LargeCap Portfolio
+260,V,"Visa, Inc. - Class A",USD,United States,233.56,17830.0,4164374.8,Voya Index Plus LargeCap Portfolio
+261,VSH,"Vishay Intertechnology, Inc.",USD,United States,24.57,95107.0,2336778.99,Voya Index Plus LargeCap Portfolio
+262,VST,Vistra Corp.,USD,United States,16.87,93214.0,1572520.18,Voya Index Plus LargeCap Portfolio
+263,VMW,"VMware, Inc.",USD,United States,160.83,10015.0,1610712.45,Voya Index Plus LargeCap Portfolio
+264,DIS,Walt Disney Co.,USD,United States,186.02,20083.0,3735839.66,Voya Index Plus LargeCap Portfolio
+265,WFC,Wells Fargo & Co.,USD,United States,45.05,187382.0,8441559.1,Voya Index Plus LargeCap Portfolio
+266,WY,Weyerhaeuser Co.,USD,United States,38.77,97244.0,3770149.88,Voya Index Plus LargeCap Portfolio
+267,WMB,"Williams Cos., Inc.",USD,United States,24.36,88552.0,2157126.72,Voya Index Plus LargeCap Portfolio
+268,WLTW,Willis Towers Watson PLC,USD,United Kingdom,258.86,5176.0,1339859.36,Voya Index Plus LargeCap Portfolio
+269,WDAY,"Workday, Inc.",USD,United States,247.0,4351.0,1074697.0,Voya Index Plus LargeCap Portfolio
+270,INT,World Fuel Services Corp.,USD,United States,30.93,40711.0,1259191.23,Voya Index Plus LargeCap Portfolio
+271,XLNX,"Xilinx, Inc.",USD,United States,127.96,11220.0,1435711.2,Voya Index Plus LargeCap Portfolio
+272,YELP,"Yelp, Inc.",USD,United States,39.3,14020.0,550986.0,Voya Index Plus LargeCap Portfolio
+273,YETI,"YETI Holdings, Inc.",USD,United States,85.42,8131.0,694550.02,Voya Index Plus LargeCap Portfolio
+274,YUM,"Yum! Brands, Inc.",USD,United States,119.52,37171.0,4442677.92,Voya Index Plus LargeCap Portfolio
+275,ZTS,"Zoetis, Inc.",USD,United States,173.03,18860.0,3263345.8,Voya Index Plus LargeCap Portfolio
+0,AMD,"Advanced Micro Devices, Inc.",USD,United States,81.62,1788568.0,145982920.16,Voya LargeCap Growth Portfolio
+1,A,"Agilent Technologies, Inc.",USD,United States,133.64,528065.0,70570606.6,Voya LargeCap Growth Portfolio
+2,APD,"Air Products & Chemicals, Inc.",USD,United States,288.48,232720.0,67135065.6,Voya LargeCap Growth Portfolio
+3,ALGN,"Align Technology, Inc.",USD,United States,595.53,112431.0,66956033.43,Voya LargeCap Growth Portfolio
+4,GOOGL,"Alphabet, Inc. - Class A",USD,United States,2353.5,16848.0,39651768.0,Voya LargeCap Growth Portfolio
+5,AMZN,"Amazon.com, Inc.",USD,United States,3467.42,185998.0,644933185.1600001,Voya LargeCap Growth Portfolio
+6,AME,"Ametek, Inc.",USD,United States,134.93,492010.0,66386909.3,Voya LargeCap Growth Portfolio
+7,AAPL,"Apple, Inc.",USD,United States,131.46,4045133.0,531773184.18,Voya LargeCap Growth Portfolio
+8,ADSK,"Autodesk, Inc.",USD,United States,291.91,351218.0,102524046.38,Voya LargeCap Growth Portfolio
+10,TFDXX,"BlackRock Liquidity Funds, FedFund, Institutional Class",USD,United States,1.0,20922000.0,20922000.0,Voya LargeCap Growth Portfolio
+11,COIN,"Coinbase Global, Inc.",USD,United States,297.64,94612.0,28160315.68,Voya LargeCap Growth Portfolio
+12,STZ,"Constellation Brands, Inc.",USD,United States,240.32,446661.0,107341571.52,Voya LargeCap Growth Portfolio
+13,CSGP,"CoStar Group, Inc.",USD,United States,854.43,44658.0,38157134.940000005,Voya LargeCap Growth Portfolio
+14,CCK,"Crown Holdings, Inc.",USD,United States,109.8,546493.0,60004931.4,Voya LargeCap Growth Portfolio
+15,CSX,CSX Corp.,USD,United States,100.75,999902.0,100740126.5,Voya LargeCap Growth Portfolio
+16,DHR,Danaher Corp.,USD,United States,253.94,531422.0,134949302.68,Voya LargeCap Growth Portfolio
+17,DRI,"Darden Restaurants, Inc.",USD,United States,146.72,572735.0,84031679.2,Voya LargeCap Growth Portfolio
+18,DXCM,"DexCom, Inc.",USD,United States,386.1,214837.0,82948565.7,Voya LargeCap Growth Portfolio
+19,ETN,Eaton Corp. PLC,USD,United States,142.93,530334.0,75800638.61999999,Voya LargeCap Growth Portfolio
+20,LLY,Eli Lilly & Co.,USD,United States,182.77,1084218.0,198162523.86,Voya LargeCap Growth Portfolio
+21,ENTG,"Entegris, Inc.",USD,United States,112.58,637083.0,71722804.14,Voya LargeCap Growth Portfolio
+22,EXAS,Exact Sciences Corp.,USD,United States,131.82,473443.0,62409256.26,Voya LargeCap Growth Portfolio
+23,EXPE,"Expedia Group, Inc.",USD,United States,176.23,670984.0,118247510.32000001,Voya LargeCap Growth Portfolio
+24,FB,"Facebook, Inc.- Class A",USD,United States,325.08,1386878.0,450846300.24,Voya LargeCap Growth Portfolio
+25,FIVN,"Five9, Inc.",USD,United States,187.97,253497.0,47649831.09,Voya LargeCap Growth Portfolio
+26,HZNP,Horizon Therapeutics Plc,USD,United States,94.62,957311.0,90580766.82000001,Voya LargeCap Growth Portfolio
+27,INTU,"Intuit, Inc.",USD,United States,412.16,547061.0,225476661.76,Voya LargeCap Growth Portfolio
+28,LRCX,Lam Research Corp.,USD,United States,620.45,175664.0,108990728.8,Voya LargeCap Growth Portfolio
+29,LULU,"Lululemon Athletica, Inc.",USD,Canada,335.27,251288.0,84249327.75999999,Voya LargeCap Growth Portfolio
+30,MRVL,"Marvell Technology, Inc.",USD,United States,45.21,1725626.0,78015551.46000001,Voya LargeCap Growth Portfolio
+31,MA,"Mastercard, Inc. - Class A",USD,United States,382.06,79868.0,30514368.08,Voya LargeCap Growth Portfolio
+32,MSFT,Microsoft Corp.,USD,United States,252.18,1239037.0,312460350.66,Voya LargeCap Growth Portfolio
+33,MPWR,"Monolithic Power Systems, Inc.",USD,United States,361.38,105948.0,38287488.24,Voya LargeCap Growth Portfolio
+34,MSCI,"MSCI, Inc. - Class A",USD,United States,485.77,191687.0,93115793.99,Voya LargeCap Growth Portfolio
+35,NVDA,Nvidia Corp.,USD,United States,600.38,203945.0,122444499.1,Voya LargeCap Growth Portfolio
+36,ORLY,"O'Reilly Automotive, Inc.",USD,United States,552.88,221075.0,122227945.99999999,Voya LargeCap Growth Portfolio
+37,PAYC,"Paycom Software, Inc.",USD,United States,384.41,298466.0,114733315.06,Voya LargeCap Growth Portfolio
+38,PYPL,"PayPal Holdings, Inc.",USD,United States,262.29,817723.0,214480565.67,Voya LargeCap Growth Portfolio
+39,PM,"Philip Morris International, Inc.",USD,United States,95.0,1624131.0,154292445.0,Voya LargeCap Growth Portfolio
+40,QCOM,"Qualcomm, Inc.",USD,United States,138.8,965224.0,133973091.2,Voya LargeCap Growth Portfolio
+41,PWR,"Quanta Services, Inc.",USD,United States,96.64,372055.0,35955395.2,Voya LargeCap Growth Portfolio
+42,RNG,"RingCentral, Inc.",USD,United States,318.95,175102.0,55848782.9,Voya LargeCap Growth Portfolio
+43,ROST,"Ross Stores, Inc.",USD,United States,130.94,993942.0,130146765.47999999,Voya LargeCap Growth Portfolio
+44,SBAC,SBA Communications Corp.,USD,United States,299.72,265929.0,79704239.88,Voya LargeCap Growth Portfolio
+45,NOW,"ServiceNow, Inc.",USD,United States,506.37,128827.0,65234127.99,Voya LargeCap Growth Portfolio
+46,SNAP,"Snap, Inc.",USD,United States,61.82,1619628.0,100125402.96,Voya LargeCap Growth Portfolio
+47,SPOT,Spotify Technology SA,USD,Sweden,252.12,237715.0,59932705.8,Voya LargeCap Growth Portfolio
+48,TTWO,"Take-Two Interactive Software, Inc.",USD,United States,175.38,587215.0,102985766.7,Voya LargeCap Growth Portfolio
+49,TNDM,"Tandem Diabetes Care, Inc.",USD,United States,91.9,323080.0,29691052.0,Voya LargeCap Growth Portfolio
+50,TWLO,"Twilio, Inc.",USD,United States,367.8,184701.0,67933027.8,Voya LargeCap Growth Portfolio
+51,VEEV,"Veeva Systems, Inc.",USD,United States,282.45,169864.0,47978086.8,Voya LargeCap Growth Portfolio
+52,V,"Visa, Inc. - Class A",USD,United States,233.56,1382460.0,322887357.59999996,Voya LargeCap Growth Portfolio
+53,WCN,"Waste Connections, Inc.",USD,Canada,119.11,407720.0,48563529.2,Voya LargeCap Growth Portfolio
+54,ZBRA,Zebra Technologies Corp.,USD,United States,487.74,88944.0,43381546.56,Voya LargeCap Growth Portfolio
+0,ATVI,"Activision Blizzard, Inc.",USD,United States,91.19,161140.0,14694356.6,Voya LargeCap Value Portfolio
+1,APD,"Air Products & Chemicals, Inc.",USD,United States,288.48,33170.0,9568881.6,Voya LargeCap Value Portfolio
+2,AA,Alcoa Corp.,USD,United States,36.64,174772.0,6403646.08,Voya LargeCap Value Portfolio
+3,ALC,"Alcon, Inc.",USD,Switzerland,75.43,139551.0,10526331.93,Voya LargeCap Value Portfolio
+4,GOOGL,"Alphabet, Inc. - Class A",USD,United States,2353.5,10871.0,25584898.499999996,Voya LargeCap Value Portfolio
+5,AEE,Ameren Corp.,USD,United States,84.84,91468.0,7760145.12,Voya LargeCap Value Portfolio
+6,AMH,American Homes 4 Rent,USD,United States,37.04,248171.0,9192253.84,Voya LargeCap Value Portfolio
+7,APO,"Apollo Global Management, Inc.",USD,United States,55.37,233407.0,12923745.590000002,Voya LargeCap Value Portfolio
+8,AIZ,"Assurant, Inc.",USD,United States,155.6,145215.0,22595454.0,Voya LargeCap Value Portfolio
+9,BAC,Bank of America Corp.,USD,United States,40.53,1001235.0,40580054.550000004,Voya LargeCap Value Portfolio
+11,BIIB,"Biogen, Inc.",USD,United States,267.33,5962.0,1593821.46,Voya LargeCap Value Portfolio
+12,TFDXX,"BlackRock Liquidity Funds, FedFund, Institutional Class",USD,United States,1.0,9311000.0,9311000.0,Voya LargeCap Value Portfolio
+13,BP,BP PLC,USD,United Kingdom,25.16,339810.0,8549619.6,Voya LargeCap Value Portfolio
+14,AVGO,"Broadcom, Inc.",USD,United States,456.2,22734.0,10371250.8,Voya LargeCap Value Portfolio
+15,CZR,"Caesars Entertainment, Inc.",USD,United States,97.84,97150.0,9505156.0,Voya LargeCap Value Portfolio
+16,CF,"CF Industries Holdings, Inc.",USD,United States,48.63,302914.0,14730707.82,Voya LargeCap Value Portfolio
+17,CVX,Chevron Corp.,USD,United States,103.07,154995.0,15975334.649999999,Voya LargeCap Value Portfolio
+18,CB,Chubb Ltd.,USD,Switzerland,171.59,111124.0,19067767.16,Voya LargeCap Value Portfolio
+19,CI,Cigna Corp.,USD,United States,249.01,59478.0,14810616.78,Voya LargeCap Value Portfolio
+20,XEC,Cimarex Energy Co.,USD,United States,66.2,107698.0,7129607.6,Voya LargeCap Value Portfolio
+21,C,"Citigroup, Inc.",USD,United States,71.24,380389.0,27098912.36,Voya LargeCap Value Portfolio
+22,KO,Coca-Cola Co.,USD,United States,53.98,360051.0,19435552.979999997,Voya LargeCap Value Portfolio
+23,COP,ConocoPhillips,USD,United States,51.14,206361.0,10553301.54,Voya LargeCap Value Portfolio
+24,STZ,"Constellation Brands, Inc.",USD,United States,240.32,54523.0,13102967.36,Voya LargeCap Value Portfolio
+26,FANG,"Diamondback Energy, Inc.",USD,United States,81.73,121272.0,9911560.56,Voya LargeCap Value Portfolio
+27,DLB,"Dolby Laboratories, Inc.",USD,United States,101.47,98898.0,10035180.06,Voya LargeCap Value Portfolio
+28,EMN,Eastman Chemical Co.,USD,United States,115.39,129197.0,14908041.830000002,Voya LargeCap Value Portfolio
+29,LLY,Eli Lilly & Co.,USD,United States,182.77,83124.0,15192573.48,Voya LargeCap Value Portfolio
+30,ETR,Entergy Corp.,USD,United States,109.29,72535.0,7927350.15,Voya LargeCap Value Portfolio
+31,EXC,Exelon Corp.,USD,United States,44.94,286747.0,12886410.18,Voya LargeCap Value Portfolio
+32,EXPE,"Expedia Group, Inc.",USD,United States,176.23,95912.0,16902571.76,Voya LargeCap Value Portfolio
+33,FISV,"Fiserv, Inc.",USD,United States,120.12,162076.0,19468569.12,Voya LargeCap Value Portfolio
+34,FOXA,Fox Corp. - Class A,USD,United States,37.42,424179.0,15872778.18,Voya LargeCap Value Portfolio
+35,GPS,"Gap, Inc.",USD,United States,33.1,491445.0,16266829.5,Voya LargeCap Value Portfolio
+36,GS,"Goldman Sachs Group, Inc.",USD,United States,348.45,62277.0,21700420.65,Voya LargeCap Value Portfolio
+37,HIG,"Hartford Financial Services Group, Inc.",USD,United States,65.96,291115.0,19201945.4,Voya LargeCap Value Portfolio
+38,HWM,"Howmet Aerospace, Inc.",USD,United States,31.96,378384.0,12093152.64,Voya LargeCap Value Portfolio
+39,HPQ,"HP, Inc.",USD,United States,34.11,363976.0,12415221.36,Voya LargeCap Value Portfolio
+40,IPG,"Interpublic Group of Cos., Inc.",USD,United States,31.75,428870.0,13616622.5,Voya LargeCap Value Portfolio
+41,JNJ,Johnson & Johnson,USD,United States,162.73,181967.0,29611489.91,Voya LargeCap Value Portfolio
+42,LHX,"L3Harris Technologies, Inc.",USD,United States,209.23,75887.0,15877837.01,Voya LargeCap Value Portfolio
+43,LVS,Las Vegas Sands Corp.,USD,United States,61.26,165157.0,10117517.82,Voya LargeCap Value Portfolio
+44,MCK,McKesson Corp.,USD,United States,187.56,36491.0,6844251.96,Voya LargeCap Value Portfolio
+45,MDT,Medtronic PLC,USD,Ireland,130.92,209279.0,27398806.68,Voya LargeCap Value Portfolio
+46,MCHP,"Microchip Technology, Inc.",USD,United States,150.29,77082.0,11584653.78,Voya LargeCap Value Portfolio
+47,MSI,"Motorola Solutions, Inc.",USD,United States,188.3,117238.0,22075915.4,Voya LargeCap Value Portfolio
+48,NEE,"NextEra Energy, Inc.",USD,United States,77.51,178144.0,13807941.44,Voya LargeCap Value Portfolio
+49,NKE,"Nike, Inc.",USD,United States,132.62,83938.0,11131857.56,Voya LargeCap Value Portfolio
+50,NVT,nVent Electric PLC,USD,United Kingdom,30.45,594939.0,18115892.55,Voya LargeCap Value Portfolio
+51,NXPI,NXP Semiconductor NV - NXPI - US,USD,Netherlands,192.51,53676.0,10333166.76,Voya LargeCap Value Portfolio
+52,ODFL,Old Dominion Freight Line,USD,United States,257.81,58126.0,14985464.06,Voya LargeCap Value Portfolio
+53,PH,Parker Hannifin Corp.,USD,United States,313.81,57734.0,18117506.54,Voya LargeCap Value Portfolio
+54,PM,"Philip Morris International, Inc.",USD,United States,95.0,345199.0,32793905.0,Voya LargeCap Value Portfolio
+56,PLD,"ProLogis, Inc.",USD,United States,116.53,62728.0,7309693.84,Voya LargeCap Value Portfolio
+57,PEG,"Public Service Enterprise Group, Inc.",USD,United States,63.16,177251.0,11195173.16,Voya LargeCap Value Portfolio
+58,RTX,Raytheon Technologies Corp.,USD,United States,83.24,312293.0,25995269.32,Voya LargeCap Value Portfolio
+59,RS,Reliance Steel & Aluminum Co.,USD,United States,160.31,66133.0,10601781.23,Voya LargeCap Value Portfolio
+60,RCL,Royal Caribbean Cruises Ltd.,USD,United States,86.95,124906.0,10860576.7,Voya LargeCap Value Portfolio
+61,R,"Ryder System, Inc.",USD,United States,79.84,94498.0,7544720.32,Voya LargeCap Value Portfolio
+62,RHP,Ryman Hospitality Properties,USD,United States,78.65,116919.0,9195679.35,Voya LargeCap Value Portfolio
+64,SRC,"Spirit Realty Capital, Inc.",USD,United States,47.54,183839.0,8739706.06,Voya LargeCap Value Portfolio
+65,SYF,Synchrony Financial,USD,United States,43.74,387336.0,16942076.64,Voya LargeCap Value Portfolio
+66,SNX,SYNNEX Corp.,USD,United States,121.2,38643.0,4683531.6,Voya LargeCap Value Portfolio
+67,TMO,"Thermo Fisher Scientific, Inc.",USD,United States,470.23,20700.0,9733761.0,Voya LargeCap Value Portfolio
+68,TKR,Timken Co.,USD,United States,83.87,108384.0,9090166.08,Voya LargeCap Value Portfolio
+71,TFC,Truist Financial Corp.,USD,United States,59.31,388935.0,23067734.849999998,Voya LargeCap Value Portfolio
+72,UDR,"UDR, Inc.",USD,United States,46.45,237291.0,11022166.950000001,Voya LargeCap Value Portfolio
+73,URI,"United Rentals, Inc.",USD,United States,319.95,45426.0,14534048.7,Voya LargeCap Value Portfolio
+74,UNH,"UnitedHealth Group, Inc.",USD,United States,398.8,32854.0,13102175.2,Voya LargeCap Value Portfolio
+75,USB,US Bancorp,USD,United States,59.35,560122.0,33243240.700000003,Voya LargeCap Value Portfolio
+76,VLO,Valero Energy Corp.,USD,United States,73.96,153701.0,11367725.96,Voya LargeCap Value Portfolio
+77,WMT,"Walmart, Inc.",USD,United States,139.91,158104.0,22120330.64,Voya LargeCap Value Portfolio
+78,DIS,Walt Disney Co.,USD,United States,186.02,171542.0,31910242.84,Voya LargeCap Value Portfolio
+79,ZBH,"Zimmer Biomet Holdings, Inc.",USD,United States,177.16,108639.0,19246485.24,Voya LargeCap Value Portfolio
+0,MMM,3M Co.,USD,United States,197.14,24044.0,4740034.16,Voya Russell LargeCap Index Portfolio
+1,ABT,Abbott Laboratories,USD,United States,120.08,73961.0,8881236.88,Voya Russell LargeCap Index Portfolio
+2,ABBV,"AbbVie, Inc.",USD,United States,111.5,75380.0,8404870.0,Voya Russell LargeCap Index Portfolio
+3,ACN,Accenture PLC,USD,United States,289.97,27274.0,7908641.78,Voya Russell LargeCap Index Portfolio
+4,ATVI,"Activision Blizzard, Inc.",USD,United States,91.19,32654.0,2977718.26,Voya Russell LargeCap Index Portfolio
+5,ADBE,"Adobe, Inc.",USD,United States,508.34,20584.0,10463670.56,Voya Russell LargeCap Index Portfolio
+6,AMD,"Advanced Micro Devices, Inc.",USD,United States,81.62,51231.0,4181474.22,Voya Russell LargeCap Index Portfolio
+7,AFL,"Aflac, Inc.",USD,United States,53.73,29290.0,1573751.7,Voya Russell LargeCap Index Portfolio
+8,APD,"Air Products & Chemicals, Inc.",USD,United States,288.48,9446.0,2724982.08,Voya Russell LargeCap Index Portfolio
+9,ALL,Allstate Corp.,USD,United States,126.8,12973.0,1644976.4,Voya Russell LargeCap Index Portfolio
+10,GOOGL,"Alphabet, Inc. - Class A",USD,United States,2353.5,12845.0,30230707.500000004,Voya Russell LargeCap Index Portfolio
+11,GOOG,"Alphabet, Inc. - Class C",USD,United States,2410.12,12442.0,29986713.04,Voya Russell LargeCap Index Portfolio
+12,MO,"Altria Group, Inc.",USD,United States,47.75,79568.0,3799372.0,Voya Russell LargeCap Index Portfolio
+13,AMZN,"Amazon.com, Inc.",USD,United States,3467.42,18144.0,62912868.48,Voya Russell LargeCap Index Portfolio
+14,AEP,"American Electric Power Co., Inc.",USD,United States,88.71,21233.0,1883579.43,Voya Russell LargeCap Index Portfolio
+15,AXP,American Express Co.,USD,United States,153.35,27975.0,4289966.25,Voya Russell LargeCap Index Portfolio
+16,AIG,"American International Group, Inc.",USD,United States,48.45,36850.0,1785382.5,Voya Russell LargeCap Index Portfolio
+17,AMT,American Tower Corp.,USD,United States,254.77,18874.0,4808528.98,Voya Russell LargeCap Index Portfolio
+18,AMGN,"Amgen, Inc.",USD,United States,239.64,24926.0,5973266.64,Voya Russell LargeCap Index Portfolio
+19,ADI,"Analog Devices, Inc.",USD,United States,153.16,15732.0,2409513.12,Voya Russell LargeCap Index Portfolio
+20,ANTM,"Anthem, Inc.",USD,United States,379.39,10650.0,4040503.5,Voya Russell LargeCap Index Portfolio
+21,AON,Aon PLC,USD,United States,251.44,9693.0,2437207.92,Voya Russell LargeCap Index Portfolio
+22,AAPL,"Apple, Inc.",USD,United States,131.46,677863.0,89111869.97999999,Voya Russell LargeCap Index Portfolio
+23,AMAT,"Applied Materials, Inc.",USD,United States,132.71,39197.0,5201833.87,Voya Russell LargeCap Index Portfolio
+24,T,"AT&T, Inc.",USD,United States,31.41,305128.0,9584070.48,Voya Russell LargeCap Index Portfolio
+25,TEAM,Atlassian Corp. PLC,USD,United Kingdom,237.56,5609.0,1332474.04,Voya Russell LargeCap Index Portfolio
+26,ADSK,"Autodesk, Inc.",USD,United States,291.91,9379.0,2737823.89,Voya Russell LargeCap Index Portfolio
+27,ADP,"Automatic Data Processing, Inc.",USD,United States,186.99,18386.0,3437998.14,Voya Russell LargeCap Index Portfolio
+28,BAC,Bank of America Corp.,USD,United States,40.53,330971.0,13414254.63,Voya Russell LargeCap Index Portfolio
+30,BK,Bank of New York Mellon Corp.,USD,United States,49.88,34138.0,1702803.44,Voya Russell LargeCap Index Portfolio
+31,BAX,"Baxter International, Inc.",USD,United States,85.69,21777.0,1866071.13,Voya Russell LargeCap Index Portfolio
+32,BDX,Becton Dickinson & Co.,USD,United States,248.81,12328.0,3067329.68,Voya Russell LargeCap Index Portfolio
+33,BRK/B,"Berkshire Hathaway, Inc.  Class B",USD,United States,274.95,80495.0,22132100.25,Voya Russell LargeCap Index Portfolio
+34,BIIB,"Biogen, Inc.",USD,United States,267.33,6493.0,1735773.69,Voya Russell LargeCap Index Portfolio
+35,TFDXX,"BlackRock Liquidity Funds, FedFund, Institutional Class",USD,United States,1.0,3568000.0,3568000.0,Voya Russell LargeCap Index Portfolio
+36,BLK,"Blackrock, Inc.",USD,United States,819.3,6297.0,5159132.1,Voya Russell LargeCap Index Portfolio
+37,BA,Boeing Co.,USD,United States,234.31,22848.0,5353514.88,Voya Russell LargeCap Index Portfolio
+38,BKNG,"Booking Holdings, Inc.",USD,United States,2466.08,1748.0,4310707.84,Voya Russell LargeCap Index Portfolio
+39,BSX,Boston Scientific Corp.,USD,United States,43.6,61118.0,2664744.8,Voya Russell LargeCap Index Portfolio
+40,BMY,Bristol-Myers Squibb Co.,USD,United States,62.42,96874.0,6046875.08,Voya Russell LargeCap Index Portfolio
+41,AVGO,"Broadcom, Inc.",USD,United States,456.2,16899.0,7709323.8,Voya Russell LargeCap Index Portfolio
+42,COF,Capital One Financial Corp.,USD,United States,149.08,19351.0,2884847.08,Voya Russell LargeCap Index Portfolio
+43,CAT,"Caterpillar, Inc.",USD,United States,228.11,23165.0,5284168.15,Voya Russell LargeCap Index Portfolio
+44,CNC,Centene Corp.,USD,United States,61.74,24558.0,1516210.92,Voya Russell LargeCap Index Portfolio
+45,SCHW,Charles Schwab Corp.,USD,United States,70.4,58920.0,4147968.0,Voya Russell LargeCap Index Portfolio
+46,CHTR,"Charter Communications, Inc.",USD,United States,673.45,6005.0,4044067.25,Voya Russell LargeCap Index Portfolio
+47,CVX,Chevron Corp.,USD,United States,103.07,82415.0,8494514.05,Voya Russell LargeCap Index Portfolio
+48,CB,Chubb Ltd.,USD,Switzerland,171.59,19227.0,3299160.93,Voya Russell LargeCap Index Portfolio
+49,CI,Cigna Corp.,USD,United States,249.01,14711.0,3663186.11,Voya Russell LargeCap Index Portfolio
+50,CSCO,"Cisco Systems, Inc.",USD,United States,50.91,181701.0,9250397.91,Voya Russell LargeCap Index Portfolio
+51,C,"Citigroup, Inc.",USD,United States,71.24,89093.0,6346985.32,Voya Russell LargeCap Index Portfolio
+52,CME,"CME Group, Inc.",USD,United States,201.99,15183.0,3066814.17,Voya Russell LargeCap Index Portfolio
+53,KO,Coca-Cola Co.,USD,United States,53.98,165414.0,8929047.72,Voya Russell LargeCap Index Portfolio
+54,CTSH,Cognizant Technology Solutions Corp.,USD,United States,80.4,22845.0,1836738.0,Voya Russell LargeCap Index Portfolio
+55,CL,Colgate-Palmolive Co.,USD,United States,80.7,36050.0,2909235.0,Voya Russell LargeCap Index Portfolio
+56,CMCSA,Comcast Corp.  Class A,USD,United States,56.15,193898.0,10887372.7,Voya Russell LargeCap Index Portfolio
+57,COP,ConocoPhillips,USD,United States,51.14,58110.0,2971745.4,Voya Russell LargeCap Index Portfolio
+58,STZ,"Constellation Brands, Inc.",USD,United States,240.32,6907.0,1659890.24,Voya Russell LargeCap Index Portfolio
+59,COST,Costco Wholesale Corp.,USD,United States,372.09,18882.0,7025803.38,Voya Russell LargeCap Index Portfolio
+60,CCI,Crown Castle International Corp.,USD,United States,189.06,17775.0,3360541.5,Voya Russell LargeCap Index Portfolio
+61,CSX,CSX Corp.,USD,United States,100.75,32623.0,3286767.25,Voya Russell LargeCap Index Portfolio
+62,CVS,CVS Health Corp.,USD,United States,76.4,55932.0,4273204.8,Voya Russell LargeCap Index Portfolio
+63,DHR,Danaher Corp.,USD,United States,253.94,26787.0,6802290.78,Voya Russell LargeCap Index Portfolio
+64,DE,Deere & Co.,USD,United States,370.85,12061.0,4472821.85,Voya Russell LargeCap Index Portfolio
+65,DELL,"Dell Technologies, Inc.",USD,United States,98.33,11183.0,1099624.39,Voya Russell LargeCap Index Portfolio
+66,DXCM,"DexCom, Inc.",USD,United States,386.1,3931.0,1517759.1,Voya Russell LargeCap Index Portfolio
+67,DLR,"Digital Realty Trust, Inc.",USD,United States,154.31,11933.0,1841381.23,Voya Russell LargeCap Index Portfolio
+68,DG,Dollar General Corp.,USD,United States,214.75,10485.0,2251653.75,Voya Russell LargeCap Index Portfolio
+69,D,"Dominion Energy, Inc.",USD,United States,79.9,34868.0,2785953.2,Voya Russell LargeCap Index Portfolio
+70,DOW,"Dow, Inc.",USD,United States,62.5,31726.0,1982875.0,Voya Russell LargeCap Index Portfolio
+71,DUK,Duke Energy Corp.,USD,United States,100.69,31425.0,3164183.25,Voya Russell LargeCap Index Portfolio
+72,DD,"DuPont de Nemours, Inc.",USD,United States,77.11,22978.0,1771833.58,Voya Russell LargeCap Index Portfolio
+73,ETN,Eaton Corp. PLC,USD,United States,142.93,17103.0,2444531.79,Voya Russell LargeCap Index Portfolio
+74,EBAY,"eBay, Inc.",USD,United States,55.79,27704.0,1545606.16,Voya Russell LargeCap Index Portfolio
+75,ECL,"Ecolab, Inc.",USD,United States,224.12,10653.0,2387550.36,Voya Russell LargeCap Index Portfolio
+76,EW,Edwards Lifesciences Corp.,USD,United States,95.52,26375.0,2519340.0,Voya Russell LargeCap Index Portfolio
+77,EA,"Electronic Arts, Inc.",USD,United States,142.08,12199.0,1733233.92,Voya Russell LargeCap Index Portfolio
+78,LLY,Eli Lilly & Co.,USD,United States,182.77,36042.0,6587396.34,Voya Russell LargeCap Index Portfolio
+79,EMR,Emerson Electric Co.,USD,United States,90.49,25450.0,2302970.5,Voya Russell LargeCap Index Portfolio
+80,EOG,"EOG Resources, Inc.",USD,United States,73.64,24898.0,1833488.72,Voya Russell LargeCap Index Portfolio
+81,EQIX,"Equinix, Inc.",USD,United States,720.76,3800.0,2738888.0,Voya Russell LargeCap Index Portfolio
+82,EL,"Estee Lauder Cos., Inc.",USD,United States,313.8,9684.0,3038839.2,Voya Russell LargeCap Index Portfolio
+83,EXC,Exelon Corp.,USD,United States,44.94,41623.0,1870537.62,Voya Russell LargeCap Index Portfolio
+84,XOM,Exxon Mobil Corp.,USD,United States,57.24,181097.0,10365992.28,Voya Russell LargeCap Index Portfolio
+85,FB,"Facebook, Inc.- Class A",USD,United States,325.08,102750.0,33401970.0,Voya Russell LargeCap Index Portfolio
+86,FDX,FedEx Corp.,USD,United States,290.31,10484.0,3043610.04,Voya Russell LargeCap Index Portfolio
+87,FIS,"Fidelity National Information Services, Inc.",USD,United States,152.9,26416.0,4039006.4,Voya Russell LargeCap Index Portfolio
+88,FISV,"Fiserv, Inc.",USD,United States,120.12,24556.0,2949666.72,Voya Russell LargeCap Index Portfolio
+89,GD,General Dynamics Corp.,USD,United States,190.23,10845.0,2063044.35,Voya Russell LargeCap Index Portfolio
+90,GE,General Electric Co.,USD,United States,13.12,371794.0,4877937.28,Voya Russell LargeCap Index Portfolio
+91,GIS,"General Mills, Inc.",USD,United States,60.86,25947.0,1579134.42,Voya Russell LargeCap Index Portfolio
+92,GM,General Motors Co.,USD,United States,57.22,53428.0,3057150.16,Voya Russell LargeCap Index Portfolio
+93,GILD,"Gilead Sciences, Inc.",USD,United States,63.47,53726.0,3409989.22,Voya Russell LargeCap Index Portfolio
+94,GPN,"Global Payments, Inc.",USD,United States,214.63,12732.0,2732669.16,Voya Russell LargeCap Index Portfolio
+95,GS,"Goldman Sachs Group, Inc.",USD,United States,348.45,14171.0,4937884.95,Voya Russell LargeCap Index Portfolio
+96,HCA,"HCA Healthcare, Inc.",USD,United States,201.06,11397.0,2291480.82,Voya Russell LargeCap Index Portfolio
+97,HD,"Home Depot, Inc.",USD,United States,323.67,45965.0,14877491.55,Voya Russell LargeCap Index Portfolio
+98,HON,"Honeywell International, Inc.",USD,United States,223.04,30043.0,6700790.72,Voya Russell LargeCap Index Portfolio
+99,HUM,"Humana, Inc.",USD,United States,445.24,5510.0,2453272.4,Voya Russell LargeCap Index Portfolio
+100,ITW,"Illinois Tool Works, Inc.",USD,United States,230.46,13464.0,3102913.44,Voya Russell LargeCap Index Portfolio
+101,ILMN,"Illumina, Inc.",USD,United States,392.84,6276.0,2465463.84,Voya Russell LargeCap Index Portfolio
+102,INTC,Intel Corp.,USD,United States,57.53,175549.0,10099333.969999999,Voya Russell LargeCap Index Portfolio
+103,ICE,"Intercontinental Exchange, Inc.",USD,United States,117.71,23688.0,2788314.48,Voya Russell LargeCap Index Portfolio
+104,IBM,International Business Machines Corp.,USD,United States,141.88,38014.0,5393426.32,Voya Russell LargeCap Index Portfolio
+105,INTU,"Intuit, Inc.",USD,United States,412.16,10781.0,4443496.96,Voya Russell LargeCap Index Portfolio
+106,ISRG,"Intuitive Surgical, Inc.",USD,United States,865.0,4952.0,4283480.0,Voya Russell LargeCap Index Portfolio
+107,IWL,iShares Russell Top 200 ETF,USD,United States,99.8,49871.0,4977125.8,Voya Russell LargeCap Index Portfolio
+108,JNJ,Johnson & Johnson,USD,United States,162.73,112834.0,18361476.82,Voya Russell LargeCap Index Portfolio
+109,JPM,JPMorgan Chase & Co.,USD,United States,153.81,129610.0,19935314.099999998,Voya Russell LargeCap Index Portfolio
+110,KDP,"Keurig Dr Pepper, Inc.",USD,United States,35.85,29897.0,1071807.45,Voya Russell LargeCap Index Portfolio
+111,KMB,Kimberly-Clark Corp.,USD,United States,133.32,14524.0,1936339.68,Voya Russell LargeCap Index Portfolio
+112,KMI,"Kinder Morgan, Inc.",USD,United States,17.05,83155.0,1417792.75,Voya Russell LargeCap Index Portfolio
+113,KHC,Kraft Heinz Co.,USD,United States,41.29,27667.0,1142370.43,Voya Russell LargeCap Index Portfolio
+114,LHX,"L3Harris Technologies, Inc.",USD,United States,209.23,8964.0,1875537.72,Voya Russell LargeCap Index Portfolio
+115,LRCX,Lam Research Corp.,USD,United States,620.45,6105.0,3787847.25,Voya Russell LargeCap Index Portfolio
+116,LVS,Las Vegas Sands Corp.,USD,United States,61.26,14186.0,869034.36,Voya Russell LargeCap Index Portfolio
+117,LIN,Linde Public Ltd.,USD,United States,285.84,22474.0,6423968.16,Voya Russell LargeCap Index Portfolio
+118,LMT,Lockheed Martin Corp.,USD,United States,380.56,10588.0,4029369.28,Voya Russell LargeCap Index Portfolio
+119,LOW,"Lowe's Cos, Inc.",USD,United States,196.25,31388.0,6159895.0,Voya Russell LargeCap Index Portfolio
+120,MAR,"Marriott International, Inc.",USD,United States,148.52,11483.0,1705455.16,Voya Russell LargeCap Index Portfolio
+121,MMC,"Marsh & McLennan Cos., Inc.",USD,United States,135.7,21644.0,2937090.8,Voya Russell LargeCap Index Portfolio
+122,MA,"Mastercard, Inc. - Class A",USD,United States,382.06,37749.0,14422382.94,Voya Russell LargeCap Index Portfolio
+123,MCD,McDonald's Corp.,USD,United States,236.08,31854.0,7520092.32,Voya Russell LargeCap Index Portfolio
+124,MDT,Medtronic PLC,USD,Ireland,130.92,57396.0,7514284.32,Voya Russell LargeCap Index Portfolio
+125,MRK,"Merck & Co., Inc.",USD,United States,74.5,108099.0,8053375.5,Voya Russell LargeCap Index Portfolio
+126,MET,"Metlife, Inc.",USD,United States,63.63,32355.0,2058748.65,Voya Russell LargeCap Index Portfolio
+127,MU,"Micron Technology, Inc.",USD,United States,86.07,47573.0,4094608.11,Voya Russell LargeCap Index Portfolio
+128,MSFT,Microsoft Corp.,USD,United States,252.18,320431.0,80806289.58,Voya Russell LargeCap Index Portfolio
+129,MDLZ,"Mondelez International, Inc.",USD,United States,60.81,59764.0,3634248.84,Voya Russell LargeCap Index Portfolio
+130,MNST,Monster Beverage Corp.,USD,United States,97.05,15776.0,1531060.8,Voya Russell LargeCap Index Portfolio
+131,MCO,Moody's Corp.,USD,United States,326.71,6946.0,2269327.66,Voya Russell LargeCap Index Portfolio
+132,MS,Morgan Stanley,USD,United States,82.55,59783.0,4935086.65,Voya Russell LargeCap Index Portfolio
+133,NFLX,"NetFlix, Inc.",USD,United States,513.47,18197.0,9343613.590000002,Voya Russell LargeCap Index Portfolio
+134,NEM,Newmont Corp.,USD,United States,62.41,34335.0,2142847.35,Voya Russell LargeCap Index Portfolio
+135,NEE,"NextEra Energy, Inc.",USD,United States,77.51,83760.0,6492237.6,Voya Russell LargeCap Index Portfolio
+136,NKE,"Nike, Inc.",USD,United States,132.62,53145.0,7048089.9,Voya Russell LargeCap Index Portfolio
+137,NSC,Norfolk Southern Corp.,USD,United States,279.24,10766.0,3006297.84,Voya Russell LargeCap Index Portfolio
+138,NOC,Northrop Grumman Corp.,USD,United States,354.44,6682.0,2368368.08,Voya Russell LargeCap Index Portfolio
+139,NVDA,Nvidia Corp.,USD,United States,600.38,25260.0,15165598.8,Voya Russell LargeCap Index Portfolio
+140,ORCL,Oracle Corp.,USD,United States,75.79,78840.0,5975283.6,Voya Russell LargeCap Index Portfolio
+141,PYPL,"PayPal Holdings, Inc.",USD,United States,262.29,50251.0,13180334.790000001,Voya Russell LargeCap Index Portfolio
+142,PEP,"PepsiCo, Inc.",USD,United States,144.16,59391.0,8561806.56,Voya Russell LargeCap Index Portfolio
+143,PFE,"Pfizer, Inc.",USD,United States,38.65,237951.0,9196806.15,Voya Russell LargeCap Index Portfolio
+144,PM,"Philip Morris International, Inc.",USD,United States,95.0,66580.0,6325100.0,Voya Russell LargeCap Index Portfolio
+145,PSX,Phillips 66,USD,United States,80.91,18652.0,1509133.32,Voya Russell LargeCap Index Portfolio
+146,PNC,"PNC Financial Services Group, Inc.",USD,United States,186.95,18139.0,3391086.05,Voya Russell LargeCap Index Portfolio
+147,PG,Procter & Gamble Co.,USD,United States,133.42,104276.0,13912503.92,Voya Russell LargeCap Index Portfolio
+148,PGR,Progressive Corp.,USD,United States,100.74,25001.0,2518600.74,Voya Russell LargeCap Index Portfolio
+149,PLD,"ProLogis, Inc.",USD,United States,116.53,31488.0,3669296.64,Voya Russell LargeCap Index Portfolio
+150,PSA,"Public Storage, Inc.",USD,United States,281.16,6443.0,1811513.88,Voya Russell LargeCap Index Portfolio
+151,QCOM,"Qualcomm, Inc.",USD,United States,138.8,48157.0,6684191.6,Voya Russell LargeCap Index Portfolio
+152,RTX,Raytheon Technologies Corp.,USD,United States,83.24,60992.0,5076974.08,Voya Russell LargeCap Index Portfolio
+153,REGN,"Regeneron Pharmaceuticals, Inc.",USD,United States,481.3,4137.0,1991138.1,Voya Russell LargeCap Index Portfolio
+154,RKT,"Rocket Cos, Inc.",USD,United States,22.45,4679.0,105043.55,Voya Russell LargeCap Index Portfolio
+155,ROP,"Roper Technologies, Inc.",USD,United States,446.44,4451.0,1987104.44,Voya Russell LargeCap Index Portfolio
+156,ROST,"Ross Stores, Inc.",USD,United States,130.94,14929.0,1954803.26,Voya Russell LargeCap Index Portfolio
+157,SPGI,"S&P Global, Inc.",USD,United States,390.39,10302.0,4021797.78,Voya Russell LargeCap Index Portfolio
+159,CRM,"Salesforce.com, Inc.",USD,United States,230.32,37516.0,8640685.12,Voya Russell LargeCap Index Portfolio
+160,SBAC,SBA Communications Corp.,USD,United States,299.72,4724.0,1415877.28,Voya Russell LargeCap Index Portfolio
+161,SLB,Schlumberger NV,USD,United States,27.05,59359.0,1605660.95,Voya Russell LargeCap Index Portfolio
+162,SRE,Sempra Energy,USD,United States,137.57,12388.0,1704217.16,Voya Russell LargeCap Index Portfolio
+163,NOW,"ServiceNow, Inc.",USD,United States,506.37,8318.0,4211985.66,Voya Russell LargeCap Index Portfolio
+164,SHW,Sherwin-Williams Co.,USD,United States,273.87,10572.0,2895353.64,Voya Russell LargeCap Index Portfolio
+165,SO,Southern Co.,USD,United States,66.17,45176.0,2989295.92,Voya Russell LargeCap Index Portfolio
+166,SCCO,Southern Copper Corp.,USD,Mexico,69.41,3523.0,244531.43,Voya Russell LargeCap Index Portfolio
+167,SQ,"Square, Inc.",USD,United States,244.82,15801.0,3868400.82,Voya Russell LargeCap Index Portfolio
+168,SBUX,Starbucks Corp.,USD,United States,114.49,50009.0,5725530.41,Voya Russell LargeCap Index Portfolio
+169,SYK,Stryker Corp.,USD,United States,262.63,14819.0,3891913.97,Voya Russell LargeCap Index Portfolio
+170,SYY,Sysco Corp.,USD,United States,84.73,20721.0,1755690.33,Voya Russell LargeCap Index Portfolio
+171,TMUS,"T-Mobile US, Inc.",USD,United States,132.13,23528.0,3108754.64,Voya Russell LargeCap Index Portfolio
+172,TGT,Target Corp.,USD,United States,207.26,21381.0,4431426.06,Voya Russell LargeCap Index Portfolio
+173,TSLA,"Tesla, Inc.",USD,United States,709.44,32764.0,23244092.16,Voya Russell LargeCap Index Portfolio
+174,TXN,"Texas Instruments, Inc.",USD,United States,180.51,39277.0,7089891.27,Voya Russell LargeCap Index Portfolio
+175,TMO,"Thermo Fisher Scientific, Inc.",USD,United States,470.23,16899.0,7946416.77,Voya Russell LargeCap Index Portfolio
+176,TJX,"TJX Cos., Inc.",USD,United States,71.0,51262.0,3639602.0,Voya Russell LargeCap Index Portfolio
+177,TRV,"Travelers Cos, Inc.",USD,United States,154.66,10808.0,1671565.28,Voya Russell LargeCap Index Portfolio
+178,TFC,Truist Financial Corp.,USD,United States,59.31,57611.0,3416908.41,Voya Russell LargeCap Index Portfolio
+179,UBER,"Uber Technologies, Inc.",USD,United States,54.77,58961.0,3229293.97,Voya Russell LargeCap Index Portfolio
+180,UNP,Union Pacific Corp.,USD,United States,222.09,28674.0,6368208.66,Voya Russell LargeCap Index Portfolio
+181,UPS,"United Parcel Service, Inc. - Class B",USD,United States,203.86,30648.0,6247901.28,Voya Russell LargeCap Index Portfolio
+182,UNH,"UnitedHealth Group, Inc.",USD,United States,398.8,40394.0,16109127.2,Voya Russell LargeCap Index Portfolio
+183,USB,US Bancorp,USD,United States,59.35,58135.0,3450312.25,Voya Russell LargeCap Index Portfolio
+184,VLO,Valero Energy Corp.,USD,United States,73.96,17419.0,1288309.24,Voya Russell LargeCap Index Portfolio
+185,VZ,"Verizon Communications, Inc.",USD,United States,57.79,177301.0,10246224.790000001,Voya Russell LargeCap Index Portfolio
+186,VRTX,"Vertex Pharmaceuticals, Inc.",USD,United States,218.2,11104.0,2422892.8,Voya Russell LargeCap Index Portfolio
+187,V,"Visa, Inc. - Class A",USD,United States,233.56,72247.0,16874009.32,Voya Russell LargeCap Index Portfolio
+188,VMW,"VMware, Inc.",USD,United States,160.83,3439.0,553094.37,Voya Russell LargeCap Index Portfolio
+189,WBA,"Walgreens Boots Alliance, Inc.",USD,United States,53.1,30952.0,1643551.2,Voya Russell LargeCap Index Portfolio
+190,WMT,"Walmart, Inc.",USD,United States,139.91,59627.0,8342413.57,Voya Russell LargeCap Index Portfolio
+191,DIS,Walt Disney Co.,USD,United States,186.02,77334.0,14385670.68,Voya Russell LargeCap Index Portfolio
+192,WM,"Waste Management, Inc.",USD,United States,137.97,18057.0,2491324.29,Voya Russell LargeCap Index Portfolio
+193,WFC,Wells Fargo & Co.,USD,United States,45.05,162386.0,7315489.3,Voya Russell LargeCap Index Portfolio
+194,WDAY,"Workday, Inc.",USD,United States,247.0,7653.0,1890291.0,Voya Russell LargeCap Index Portfolio
+195,YUM,"Yum! Brands, Inc.",USD,United States,119.52,12879.0,1539298.08,Voya Russell LargeCap Index Portfolio
+196,ZTS,"Zoetis, Inc.",USD,United States,173.03,20335.0,3518565.05,Voya Russell LargeCap Index Portfolio
+197,ZM,"Zoom Video Communications, Inc.",USD,United States,319.57,7486.0,2392301.02,Voya Russell LargeCap Index Portfolio
+0,MMM,3M Co.,USD,United States,197.14,128379.0,25308636.060000002,Voya U.S. Stock Index Portfolio
+1,ABT,Abbott Laboratories,USD,United States,120.08,392724.0,47158297.92,Voya U.S. Stock Index Portfolio
+2,ABBV,"AbbVie, Inc.",USD,United States,111.5,391473.0,43649239.5,Voya U.S. Stock Index Portfolio
+3,ABMD,"Abiomed, Inc.",USD,United States,320.73,10027.0,3215959.71,Voya U.S. Stock Index Portfolio
+4,ACN,Accenture PLC,USD,United States,289.97,140604.0,40770941.88,Voya U.S. Stock Index Portfolio
+5,ATVI,"Activision Blizzard, Inc.",USD,United States,91.19,171753.0,15662156.07,Voya U.S. Stock Index Portfolio
+6,ADBE,"Adobe, Inc.",USD,United States,508.34,106260.0,54016208.4,Voya U.S. Stock Index Portfolio
+7,AAP,"Advance Auto Parts, Inc.",USD,United States,200.16,14526.0,2907524.16,Voya U.S. Stock Index Portfolio
+8,AMD,"Advanced Micro Devices, Inc.",USD,United States,81.62,268641.0,21926478.419999998,Voya U.S. Stock Index Portfolio
+9,AES,AES Corp.,USD,United States,27.82,148112.0,4120475.84,Voya U.S. Stock Index Portfolio
+10,AFL,"Aflac, Inc.",USD,United States,53.73,141965.0,7627779.45,Voya U.S. Stock Index Portfolio
+11,A,"Agilent Technologies, Inc.",USD,United States,133.64,67548.0,9027114.72,Voya U.S. Stock Index Portfolio
+12,APD,"Air Products & Chemicals, Inc.",USD,United States,288.48,49054.0,14151097.92,Voya U.S. Stock Index Portfolio
+13,AKAM,"Akamai Technologies, Inc.",USD,United States,108.7,36184.0,3933200.8,Voya U.S. Stock Index Portfolio
+14,ALK,"Alaska Air Group, Inc.",USD,United States,69.14,27539.0,1904046.46,Voya U.S. Stock Index Portfolio
+15,ALB,Albemarle Corp.,USD,United States,168.17,25856.0,4348203.52,Voya U.S. Stock Index Portfolio
+16,ARE,"Alexandria Real Estate Equities, Inc.",USD,United States,181.1,28182.0,5103760.2,Voya U.S. Stock Index Portfolio
+17,ALXN,"Alexion Pharmaceuticals, Inc.",USD,United States,168.68,48737.0,8220957.16,Voya U.S. Stock Index Portfolio
+18,ALGN,"Align Technology, Inc.",USD,United States,595.53,15964.0,9507040.92,Voya U.S. Stock Index Portfolio
+19,ALLE,Allegion Public Ltd.,USD,United States,134.38,20114.0,2702919.32,Voya U.S. Stock Index Portfolio
+20,LNT,Alliant Energy Corp.,USD,United States,56.17,55395.0,3111537.15,Voya U.S. Stock Index Portfolio
+21,ALL,Allstate Corp.,USD,United States,126.8,67143.0,8513732.4,Voya U.S. Stock Index Portfolio
+22,GOOGL,"Alphabet, Inc. - Class A",USD,United States,2353.5,66669.0,156905491.5,Voya U.S. Stock Index Portfolio
+23,GOOG,"Alphabet, Inc. - Class C",USD,United States,2410.12,63901.0,154009078.12,Voya U.S. Stock Index Portfolio
+24,MO,"Altria Group, Inc.",USD,United States,47.75,412047.0,19675244.25,Voya U.S. Stock Index Portfolio
+25,AMZN,"Amazon.com, Inc.",USD,United States,3467.42,94889.0,329020016.38,Voya U.S. Stock Index Portfolio
+26,AMCR,Amcor PLC,USD,United Kingdom,11.75,346270.0,4068672.5,Voya U.S. Stock Index Portfolio
+27,AEE,Ameren Corp.,USD,United States,84.84,56165.0,4765038.6,Voya U.S. Stock Index Portfolio
+28,AAL,"American Airlines Group, Inc.",USD,United States,21.72,141808.0,3080069.76,Voya U.S. Stock Index Portfolio
+29,AEP,"American Electric Power Co., Inc.",USD,United States,88.71,110091.0,9766172.61,Voya U.S. Stock Index Portfolio
+30,AXP,American Express Co.,USD,United States,153.35,144657.0,22183150.95,Voya U.S. Stock Index Portfolio
+31,AIG,"American International Group, Inc.",USD,United States,48.45,191713.0,9288494.85,Voya U.S. Stock Index Portfolio
+32,AMT,American Tower Corp.,USD,United States,254.77,98514.0,25098411.779999997,Voya U.S. Stock Index Portfolio
+33,AWK,"American Water Works Co., Inc.",USD,United States,155.99,40223.0,6274385.77,Voya U.S. Stock Index Portfolio
+34,AMP,"Ameriprise Financial, Inc.",USD,United States,258.4,25882.0,6687908.8,Voya U.S. Stock Index Portfolio
+35,ABC,AmerisourceBergen Corp.,USD,United States,120.8,32674.0,3947019.2,Voya U.S. Stock Index Portfolio
+36,AME,"Ametek, Inc.",USD,United States,134.93,51113.0,6896677.09,Voya U.S. Stock Index Portfolio
+37,AMGN,"Amgen, Inc.",USD,United States,239.64,128039.0,30683265.96,Voya U.S. Stock Index Portfolio
+38,APH,Amphenol Corp.,USD,United States,67.34,132824.0,8944368.16,Voya U.S. Stock Index Portfolio
+39,ADI,"Analog Devices, Inc.",USD,United States,153.16,81779.0,12525271.64,Voya U.S. Stock Index Portfolio
+40,ANSS,"ANSYS, Inc.",USD,United States,365.66,19232.0,7032373.12,Voya U.S. Stock Index Portfolio
+41,ANTM,"Anthem, Inc.",USD,United States,379.39,54292.0,20597841.88,Voya U.S. Stock Index Portfolio
+42,AOS,AO Smith Corp.,USD,United States,67.75,30023.0,2034058.25,Voya U.S. Stock Index Portfolio
+43,AON,Aon PLC,USD,United States,251.44,50098.0,12596641.12,Voya U.S. Stock Index Portfolio
+44,APA,APA Corp.,USD,United States,20.0,83767.0,1675340.0,Voya U.S. Stock Index Portfolio
+45,AAPL,"Apple, Inc.",USD,United States,131.46,3498396.0,459899138.15999997,Voya U.S. Stock Index Portfolio
+46,AMAT,"Applied Materials, Inc.",USD,United States,132.71,203433.0,26997593.43,Voya U.S. Stock Index Portfolio
+47,DLPH,Aptiv PLC,USD,United Kingdom,143.89,59861.0,8613399.29,Voya U.S. Stock Index Portfolio
+48,ADM,Archer-Daniels-Midland Co.,USD,United States,63.13,123793.0,7815052.09,Voya U.S. Stock Index Portfolio
+49,ANET,"Arista Networks, Inc.",USD,United States,315.17,12184.0,3840031.28,Voya U.S. Stock Index Portfolio
+50,AJG,Arthur J. Gallagher & Co.,USD,United States,144.95,42950.0,6225602.5,Voya U.S. Stock Index Portfolio
+51,AIZ,"Assurant, Inc.",USD,United States,155.6,12836.0,1997281.6,Voya U.S. Stock Index Portfolio
+52,T,"AT&T, Inc.",USD,United States,31.41,1581017.0,49659743.96999999,Voya U.S. Stock Index Portfolio
+53,ATO,Atmos Energy Corp.,USD,United States,103.59,28412.0,2943199.08,Voya U.S. Stock Index Portfolio
+54,ADSK,"Autodesk, Inc.",USD,United States,291.91,48746.0,14229444.86,Voya U.S. Stock Index Portfolio
+55,ADP,"Automatic Data Processing, Inc.",USD,United States,186.99,94869.0,17739554.310000002,Voya U.S. Stock Index Portfolio
+56,AZO,"Autozone, Inc.",USD,United States,1464.12,4918.0,7200542.16,Voya U.S. Stock Index Portfolio
+57,AVB,"AvalonBay Communities, Inc.",USD,United States,192.0,30932.0,5938944.0,Voya U.S. Stock Index Portfolio
+58,AVY,Avery Dennison Corp.,USD,United States,214.17,18404.0,3941584.68,Voya U.S. Stock Index Portfolio
+59,BKR,Baker Hughes Co.,USD,United States,20.08,161601.0,3244948.08,Voya U.S. Stock Index Portfolio
+60,BLL,Ball Corp.,USD,United States,93.64,72697.0,6807347.08,Voya U.S. Stock Index Portfolio
+61,BAC,Bank of America Corp.,USD,United States,40.53,1684199.0,68260585.47,Voya U.S. Stock Index Portfolio
+62,BK,Bank of New York Mellon Corp.,USD,United States,49.88,178856.0,8921337.28,Voya U.S. Stock Index Portfolio
+63,BAX,"Baxter International, Inc.",USD,United States,85.69,111975.0,9595137.750000002,Voya U.S. Stock Index Portfolio
+64,BDX,Becton Dickinson & Co.,USD,United States,248.81,64413.0,16026598.53,Voya U.S. Stock Index Portfolio
+65,BRK/B,"Berkshire Hathaway, Inc.  Class B",USD,United States,274.95,422690.0,116218615.5,Voya U.S. Stock Index Portfolio
+66,BBY,"Best Buy Co., Inc.",USD,United States,116.27,51090.0,5940234.3,Voya U.S. Stock Index Portfolio
+67,BIO,"Bio-Rad Laboratories, Inc.",USD,United States,630.13,4777.0,3010131.01,Voya U.S. Stock Index Portfolio
+68,BIIB,"Biogen, Inc.",USD,United States,267.33,33771.0,9028001.43,Voya U.S. Stock Index Portfolio
+69,TFDXX,"BlackRock Liquidity Funds, FedFund, Institutional Class",USD,United States,1.0,73702000.0,73702000.0,Voya U.S. Stock Index Portfolio
+70,BLK,"Blackrock, Inc.",USD,United States,819.3,31468.0,25781732.4,Voya U.S. Stock Index Portfolio
+71,BA,Boeing Co.,USD,United States,234.31,121622.0,28497250.819999997,Voya U.S. Stock Index Portfolio
+72,BKNG,"Booking Holdings, Inc.",USD,United States,2466.08,9081.0,22394472.48,Voya U.S. Stock Index Portfolio
+73,BWA,"BorgWarner, Inc.",USD,United States,48.58,52988.0,2574157.04,Voya U.S. Stock Index Portfolio
+74,BXP,"Boston Properties, Inc.",USD,United States,109.35,31432.0,3437089.2,Voya U.S. Stock Index Portfolio
+75,BSX,Boston Scientific Corp.,USD,United States,43.6,314167.0,13697681.2,Voya U.S. Stock Index Portfolio
+76,BMY,Bristol-Myers Squibb Co.,USD,United States,62.42,496684.0,31003015.28,Voya U.S. Stock Index Portfolio
+77,AVGO,"Broadcom, Inc.",USD,United States,456.2,90498.0,41285187.6,Voya U.S. Stock Index Portfolio
+78,BR,"Broadridge Financial Solutions, Inc.",USD,United States,158.63,25671.0,4072190.73,Voya U.S. Stock Index Portfolio
+79,BF/B,Brown-Forman Corp. - Class B,USD,United States,76.28,40492.0,3088729.76,Voya U.S. Stock Index Portfolio
+80,COG,Cabot Oil & Gas Corp.,USD,United States,16.67,88546.0,1476061.82,Voya U.S. Stock Index Portfolio
+81,CDNS,"Cadence Design Systems, Inc.",USD,United States,131.77,61845.0,8149315.65,Voya U.S. Stock Index Portfolio
+82,CZR,"Caesars Entertainment, Inc.",USD,United States,97.84,46172.0,4517468.48,Voya U.S. Stock Index Portfolio
+83,CPB,Campbell Soup Co.,USD,United States,47.75,44996.0,2148559.0,Voya U.S. Stock Index Portfolio
+84,COF,Capital One Financial Corp.,USD,United States,149.08,101807.0,15177387.56,Voya U.S. Stock Index Portfolio
+85,CAH,"Cardinal Health, Inc.",USD,United States,60.34,65102.0,3928254.68,Voya U.S. Stock Index Portfolio
+86,KMX,"Carmax, Inc.",USD,United States,133.24,36033.0,4801036.92,Voya U.S. Stock Index Portfolio
+87,CCL,Carnival Corp.,USD,United States,27.96,176863.0,4945089.48,Voya U.S. Stock Index Portfolio
+88,CARR,Carrier Global Corp.,USD,United States,43.58,181146.0,7894342.68,Voya U.S. Stock Index Portfolio
+89,CTLT,"Catalent, Inc.",USD,United States,112.47,37737.0,4244280.39,Voya U.S. Stock Index Portfolio
+90,CAT,"Caterpillar, Inc.",USD,United States,228.11,120887.0,27575533.57,Voya U.S. Stock Index Portfolio
+91,CBOE,"Cboe Global Markets, Inc.",USD,United States,104.37,23767.0,2480561.79,Voya U.S. Stock Index Portfolio
+92,CBRE,"CBRE Group, Inc.",USD,United States,85.2,74397.0,6338624.4,Voya U.S. Stock Index Portfolio
+93,CDW,CDW Corp.,USD,United States,178.33,31256.0,5573882.48,Voya U.S. Stock Index Portfolio
+94,CE,Celanese Corp.,USD,United States,156.65,25311.0,3964968.15,Voya U.S. Stock Index Portfolio
+95,CNC,Centene Corp.,USD,United States,61.74,128931.0,7960199.94,Voya U.S. Stock Index Portfolio
+96,CNP,"Centerpoint Energy, Inc.",USD,United States,24.49,122278.0,2994588.22,Voya U.S. Stock Index Portfolio
+97,CERN,Cerner Corp.,USD,United States,75.05,67901.0,5095970.05,Voya U.S. Stock Index Portfolio
+98,CF,"CF Industries Holdings, Inc.",USD,United States,48.63,47441.0,2307055.83,Voya U.S. Stock Index Portfolio
+99,CHRW,"CH Robinson Worldwide, Inc.",USD,United States,97.08,29665.0,2879878.2,Voya U.S. Stock Index Portfolio
+100,SCHW,Charles Schwab Corp.,USD,United States,70.4,331761.0,23355974.4,Voya U.S. Stock Index Portfolio
+101,CHTR,"Charter Communications, Inc.",USD,United States,673.45,31352.0,21114004.4,Voya U.S. Stock Index Portfolio
+102,CVX,Chevron Corp.,USD,United States,103.07,427052.0,44016249.63999999,Voya U.S. Stock Index Portfolio
+103,CMG,"Chipotle Mexican Grill, Inc.",USD,United States,1492.03,6239.0,9308775.169999998,Voya U.S. Stock Index Portfolio
+104,CB,Chubb Ltd.,USD,Switzerland,171.59,99809.0,17126226.310000002,Voya U.S. Stock Index Portfolio
+105,CHD,"Church & Dwight Co., Inc.",USD,United States,85.74,54333.0,4658511.42,Voya U.S. Stock Index Portfolio
+106,CI,Cigna Corp.,USD,United States,249.01,78000.0,19422780.0,Voya U.S. Stock Index Portfolio
+107,CINF,Cincinnati Financial Corp.,USD,United States,112.68,33235.0,3744919.8,Voya U.S. Stock Index Portfolio
+108,CTAS,Cintas Corp.,USD,United States,345.14,19558.0,6750248.12,Voya U.S. Stock Index Portfolio
+109,CSCO,"Cisco Systems, Inc.",USD,United States,50.91,935914.0,47647381.74,Voya U.S. Stock Index Portfolio
+110,C,"Citigroup, Inc.",USD,United States,71.24,462731.0,32964956.44,Voya U.S. Stock Index Portfolio
+111,CFG,"Citizens Financial Group, Inc.",USD,United States,46.28,94240.0,4361427.2,Voya U.S. Stock Index Portfolio
+112,CTXS,"Citrix Systems, Inc.",USD,United States,123.85,27259.0,3376027.15,Voya U.S. Stock Index Portfolio
+113,CLX,Clorox Co.,USD,United States,182.5,27886.0,5089195.0,Voya U.S. Stock Index Portfolio
+114,CME,"CME Group, Inc.",USD,United States,201.99,79586.0,16075576.14,Voya U.S. Stock Index Portfolio
+115,CMS,CMS Energy Corp.,USD,United States,64.39,64055.0,4124501.45,Voya U.S. Stock Index Portfolio
+116,KO,Coca-Cola Co.,USD,United States,53.98,859786.0,46411248.28,Voya U.S. Stock Index Portfolio
+117,CTSH,Cognizant Technology Solutions Corp.,USD,United States,80.4,117630.0,9457452.0,Voya U.S. Stock Index Portfolio
+118,CL,Colgate-Palmolive Co.,USD,United States,80.7,188115.0,15180880.5,Voya U.S. Stock Index Portfolio
+119,CMCSA,Comcast Corp.  Class A,USD,United States,56.15,1013377.0,56901118.550000004,Voya U.S. Stock Index Portfolio
+120,CMA,"Comerica, Inc.",USD,United States,75.16,30851.0,2318761.16,Voya U.S. Stock Index Portfolio
+121,CAG,"Conagra Brands, Inc.",USD,United States,37.09,108311.0,4017254.99,Voya U.S. Stock Index Portfolio
+122,COP,ConocoPhillips,USD,United States,51.14,300327.0,15358722.78,Voya U.S. Stock Index Portfolio
+123,ED,"Consolidated Edison, Inc.",USD,United States,77.41,75910.0,5876193.1,Voya U.S. Stock Index Portfolio
+124,STZ,"Constellation Brands, Inc.",USD,United States,240.32,37693.0,9058381.76,Voya U.S. Stock Index Portfolio
+125,COO,"Cooper Cos., Inc.",USD,United States,410.89,10896.0,4477057.44,Voya U.S. Stock Index Portfolio
+126,CPRT,"Copart, Inc.",USD,United States,124.51,46102.0,5740160.02,Voya U.S. Stock Index Portfolio
+127,GLW,"Corning, Inc.",USD,United States,44.21,170337.0,7530598.77,Voya U.S. Stock Index Portfolio
+128,CTVA,"Corteva, Inc.",USD,United States,48.76,164949.0,8042913.24,Voya U.S. Stock Index Portfolio
+129,COST,Costco Wholesale Corp.,USD,United States,372.09,98131.0,36513563.79,Voya U.S. Stock Index Portfolio
+130,CCI,Crown Castle International Corp.,USD,United States,189.06,95616.0,18077160.96,Voya U.S. Stock Index Portfolio
+131,CSX,CSX Corp.,USD,United States,100.75,169037.0,17030477.75,Voya U.S. Stock Index Portfolio
+132,CMI,"Cummins, Inc.",USD,United States,252.04,32811.0,8269684.44,Voya U.S. Stock Index Portfolio
+133,CVS,CVS Health Corp.,USD,United States,76.4,290710.0,22210244.0,Voya U.S. Stock Index Portfolio
+134,DHI,"D.R. Horton, Inc.",USD,United States,98.29,73371.0,7211635.59,Voya U.S. Stock Index Portfolio
+135,DHR,Danaher Corp.,USD,United States,253.94,140519.0,35683394.86,Voya U.S. Stock Index Portfolio
+136,DRI,"Darden Restaurants, Inc.",USD,United States,146.72,28892.0,4239034.24,Voya U.S. Stock Index Portfolio
+137,DVA,"DaVita, Inc.",USD,United States,116.53,16007.0,1865295.71,Voya U.S. Stock Index Portfolio
+138,DE,Deere & Co.,USD,United States,370.85,69485.0,25768512.25,Voya U.S. Stock Index Portfolio
+139,DAL,"Delta Air Lines, Inc.",USD,United States,46.92,141469.0,6637725.48,Voya U.S. Stock Index Portfolio
+140,XRAY,"DENTSPLY SIRONA, Inc.",USD,United States,67.51,48560.0,3278285.6,Voya U.S. Stock Index Portfolio
+141,DVN,Devon Energy Corp.,USD,United States,23.38,131308.0,3069981.04,Voya U.S. Stock Index Portfolio
+142,DXCM,"DexCom, Inc.",USD,United States,386.1,21321.0,8232038.1,Voya U.S. Stock Index Portfolio
+143,FANG,"Diamondback Energy, Inc.",USD,United States,81.73,40082.0,3275901.86,Voya U.S. Stock Index Portfolio
+144,DLR,"Digital Realty Trust, Inc.",USD,United States,154.31,62321.0,9616753.510000002,Voya U.S. Stock Index Portfolio
+145,DFS,Discover Financial Services,USD,United States,114.0,67990.0,7750860.0,Voya U.S. Stock Index Portfolio
+146,DISCA,"Discovery Communications, Inc. - Class A",USD,United States,37.66,36022.0,1356588.52,Voya U.S. Stock Index Portfolio
+147,DISCK,"Discovery Communications, Inc. - Class C",USD,United States,32.31,64218.0,2074883.58,Voya U.S. Stock Index Portfolio
+148,DISH,Dish Network Corp. - Class A,USD,United States,44.79,54857.0,2457045.03,Voya U.S. Stock Index Portfolio
+149,DG,Dollar General Corp.,USD,United States,214.75,54313.0,11663716.750000002,Voya U.S. Stock Index Portfolio
+150,DLTR,"Dollar Tree, Inc.",USD,United States,114.9,52139.0,5990771.1,Voya U.S. Stock Index Portfolio
+151,D,"Dominion Energy, Inc.",USD,United States,79.9,178601.0,14270219.9,Voya U.S. Stock Index Portfolio
+152,DPZ,"Domino's Pizza, Inc.",USD,United States,422.34,8602.0,3632968.68,Voya U.S. Stock Index Portfolio
+153,DOV,Dover Corp.,USD,United States,149.19,31845.0,4750955.55,Voya U.S. Stock Index Portfolio
+154,DOW,"Dow, Inc.",USD,United States,62.5,165206.0,10325375.0,Voya U.S. Stock Index Portfolio
+155,DTE,DTE Energy Co.,USD,United States,140.02,42957.0,6014839.14,Voya U.S. Stock Index Portfolio
+156,DUK,Duke Energy Corp.,USD,United States,100.69,170403.0,17157878.07,Voya U.S. Stock Index Portfolio
+157,DRE,Duke Realty Corp.,USD,United States,46.52,82859.0,3854600.68,Voya U.S. Stock Index Portfolio
+158,DD,"DuPont de Nemours, Inc.",USD,United States,77.11,119352.0,9203232.72,Voya U.S. Stock Index Portfolio
+159,DXC,DXC Technology Co.,USD,United States,32.91,56440.0,1857440.4,Voya U.S. Stock Index Portfolio
+160,EMN,Eastman Chemical Co.,USD,United States,115.39,30119.0,3475431.41,Voya U.S. Stock Index Portfolio
+161,ETN,Eaton Corp. PLC,USD,United States,142.93,88253.0,12614001.29,Voya U.S. Stock Index Portfolio
+162,EBAY,"eBay, Inc.",USD,United States,55.79,143304.0,7994930.16,Voya U.S. Stock Index Portfolio
+163,ECL,"Ecolab, Inc.",USD,United States,224.12,55131.0,12355959.72,Voya U.S. Stock Index Portfolio
+164,EIX,Edison International,USD,United States,59.45,84082.0,4998674.9,Voya U.S. Stock Index Portfolio
+165,EW,Edwards Lifesciences Corp.,USD,United States,95.52,138448.0,13224552.96,Voya U.S. Stock Index Portfolio
+166,EA,"Electronic Arts, Inc.",USD,United States,142.08,63763.0,9059447.04,Voya U.S. Stock Index Portfolio
+167,LLY,Eli Lilly & Co.,USD,United States,182.77,176350.0,32231489.500000004,Voya U.S. Stock Index Portfolio
+168,EMR,Emerson Electric Co.,USD,United States,90.49,133019.0,12036889.31,Voya U.S. Stock Index Portfolio
+169,ENPH,"Enphase Energy, Inc.",USD,United States,139.25,28602.0,3982828.5,Voya U.S. Stock Index Portfolio
+170,ETR,Entergy Corp.,USD,United States,109.29,44444.0,4857284.76,Voya U.S. Stock Index Portfolio
+171,EOG,"EOG Resources, Inc.",USD,United States,73.64,129368.0,9526659.52,Voya U.S. Stock Index Portfolio
+172,EFX,"Equifax, Inc.",USD,United States,229.23,27001.0,6189439.23,Voya U.S. Stock Index Portfolio
+173,EQIX,"Equinix, Inc.",USD,United States,720.76,19794.0,14266723.44,Voya U.S. Stock Index Portfolio
+174,EQR,Equity Residential,USD,United States,74.23,76005.0,5641851.15,Voya U.S. Stock Index Portfolio
+175,ESS,"Essex Property Trust, Inc.",USD,United States,290.52,14409.0,4186102.68,Voya U.S. Stock Index Portfolio
+176,EL,"Estee Lauder Cos., Inc.",USD,United States,313.8,50929.0,15981520.2,Voya U.S. Stock Index Portfolio
+177,ETSY,"Etsy, Inc.",USD,United States,198.79,27943.0,5554788.97,Voya U.S. Stock Index Portfolio
+178,RE,Everest Re Group Ltd.,USD,United States,276.95,8866.0,2455438.7,Voya U.S. Stock Index Portfolio
+179,EVRG,"Evergy, Inc.",USD,United States,63.97,50311.0,3218394.67,Voya U.S. Stock Index Portfolio
+180,ES,Eversource Energy,USD,United States,86.22,76039.0,6556082.58,Voya U.S. Stock Index Portfolio
+181,EXC,Exelon Corp.,USD,United States,44.94,216441.0,9726858.54,Voya U.S. Stock Index Portfolio
+182,EXPE,"Expedia Group, Inc.",USD,United States,176.23,30668.0,5404621.64,Voya U.S. Stock Index Portfolio
+183,EXPD,"Expeditors International Washington, Inc.",USD,United States,109.86,37547.0,4124913.42,Voya U.S. Stock Index Portfolio
+184,EXR,"Extra Space Storage, Inc.",USD,United States,148.69,29270.0,4352156.3,Voya U.S. Stock Index Portfolio
+185,XOM,Exxon Mobil Corp.,USD,United States,57.24,938507.0,53720140.67999999,Voya U.S. Stock Index Portfolio
+186,FFIV,"F5 Networks, Inc.",USD,United States,186.76,13667.0,2552448.92,Voya U.S. Stock Index Portfolio
+187,FB,"Facebook, Inc.- Class A",USD,United States,325.08,533256.0,173350860.48,Voya U.S. Stock Index Portfolio
+188,FAST,Fastenal Co.,USD,United States,52.28,127324.0,6656498.72,Voya U.S. Stock Index Portfolio
+189,FRT,Federal Realty Investment Trust,USD,United States,112.84,15483.0,1747101.72,Voya U.S. Stock Index Portfolio
+190,FDX,FedEx Corp.,USD,United States,290.31,54062.0,15694739.22,Voya U.S. Stock Index Portfolio
+191,FIS,"Fidelity National Information Services, Inc.",USD,United States,152.9,137696.0,21053718.4,Voya U.S. Stock Index Portfolio
+192,FITB,Fifth Third Bancorp,USD,United States,40.54,157629.0,6390279.66,Voya U.S. Stock Index Portfolio
+193,FRC,First Republic Bank,USD,United States,183.24,39013.0,7148742.12,Voya U.S. Stock Index Portfolio
+194,FE,FirstEnergy Corp.,USD,United States,37.92,120424.0,4566478.08,Voya U.S. Stock Index Portfolio
+195,FISV,"Fiserv, Inc.",USD,United States,120.12,127633.0,15331275.96,Voya U.S. Stock Index Portfolio
+196,FLT,"FleetCor Technologies, Inc.",USD,United States,287.72,18492.0,5320518.24,Voya U.S. Stock Index Portfolio
+197,FLIR,"Flir Systems, Inc.",USD,United States,59.97,29094.0,1744767.18,Voya U.S. Stock Index Portfolio
+198,FMC,FMC Corp.,USD,United States,118.24,28676.0,3390650.24,Voya U.S. Stock Index Portfolio
+199,F,Ford Motor Co.,USD,United States,11.54,866317.0,9997298.18,Voya U.S. Stock Index Portfolio
+200,FTNT,"Fortinet, Inc.",USD,United States,204.23,30027.0,6132414.21,Voya U.S. Stock Index Portfolio
+201,FTV,Fortive Corp.,USD,United States,70.82,74946.0,5307675.72,Voya U.S. Stock Index Portfolio
+202,FBHS,"Fortune Brands Home & Security, Inc.",USD,United States,104.98,30740.0,3227085.2,Voya U.S. Stock Index Portfolio
+203,FOXA,Fox Corp. - Class A,USD,United States,37.42,74121.0,2773607.82,Voya U.S. Stock Index Portfolio
+204,FOX,Fox Corp. - Class B,USD,United States,36.38,34077.0,1239721.26,Voya U.S. Stock Index Portfolio
+205,BEN,"Franklin Resources, Inc.",USD,United States,30.0,60502.0,1815060.0,Voya U.S. Stock Index Portfolio
+206,FCX,"Freeport-McMoRan, Inc.",USD,United States,37.71,323326.0,12192623.46,Voya U.S. Stock Index Portfolio
+207,GPS,"Gap, Inc.",USD,United States,33.1,45604.0,1509492.4,Voya U.S. Stock Index Portfolio
+208,GRMN,Garmin Ltd.,USD,United States,137.24,33126.0,4546212.24,Voya U.S. Stock Index Portfolio
+209,IT,"Gartner, Inc.",USD,United States,195.88,19668.0,3852567.84,Voya U.S. Stock Index Portfolio
+210,GNRC,"Generac Holdings, Inc.",USD,United States,323.95,13935.0,4514243.25,Voya U.S. Stock Index Portfolio
+211,GD,General Dynamics Corp.,USD,United States,190.23,51404.0,9778582.92,Voya U.S. Stock Index Portfolio
+212,GE,General Electric Co.,USD,United States,13.12,1943736.0,25501816.32,Voya U.S. Stock Index Portfolio
+213,GIS,"General Mills, Inc.",USD,United States,60.86,135547.0,8249390.42,Voya U.S. Stock Index Portfolio
+214,GM,General Motors Co.,USD,United States,57.22,281100.0,16084542.0,Voya U.S. Stock Index Portfolio
+215,GPC,Genuine Parts Co.,USD,United States,124.97,32013.0,4000664.61,Voya U.S. Stock Index Portfolio
+216,GILD,"Gilead Sciences, Inc.",USD,United States,63.47,278570.0,17680837.9,Voya U.S. Stock Index Portfolio
+217,GPN,"Global Payments, Inc.",USD,United States,214.63,65451.0,14047748.129999999,Voya U.S. Stock Index Portfolio
+218,GL,"Globe Life, Inc.",USD,United States,102.49,21065.0,2158951.85,Voya U.S. Stock Index Portfolio
+219,GS,"Goldman Sachs Group, Inc.",USD,United States,348.45,76275.0,26578023.75,Voya U.S. Stock Index Portfolio
+220,HAL,Halliburton Co.,USD,United States,19.56,196998.0,3853280.88,Voya U.S. Stock Index Portfolio
+221,HBI,"Hanesbrands, Inc.",USD,United States,21.06,77325.0,1628464.5,Voya U.S. Stock Index Portfolio
+222,HIG,"Hartford Financial Services Group, Inc.",USD,United States,65.96,79256.0,5227725.76,Voya U.S. Stock Index Portfolio
+223,HAS,"Hasbro, Inc.",USD,United States,99.45,28318.0,2816225.1,Voya U.S. Stock Index Portfolio
+224,HCA,"HCA Healthcare, Inc.",USD,United States,201.06,58777.0,11817703.62,Voya U.S. Stock Index Portfolio
+225,PEAK,"Healthpeak Properties, Inc.",USD,United States,34.34,119420.0,4100882.8,Voya U.S. Stock Index Portfolio
+226,HSIC,"Henry Schein, Inc.",USD,United States,72.5,31582.0,2289695.0,Voya U.S. Stock Index Portfolio
+227,HSY,Hershey Co.,USD,United States,164.3,32489.0,5337942.7,Voya U.S. Stock Index Portfolio
+228,HES,Hess Corp.,USD,United States,74.51,60569.0,4512996.19,Voya U.S. Stock Index Portfolio
+229,HPE,Hewlett Packard Enterprise Co.,USD,United States,16.02,288447.0,4620920.94,Voya U.S. Stock Index Portfolio
+230,HLT,"Hilton Worldwide Holdings, Inc.",USD,United States,128.7,61542.0,7920455.4,Voya U.S. Stock Index Portfolio
+231,HFC,HollyFrontier Corp.,USD,United States,35.0,33125.0,1159375.0,Voya U.S. Stock Index Portfolio
+232,HOLX,"Hologic, Inc.",USD,United States,65.55,57120.0,3744216.0,Voya U.S. Stock Index Portfolio
+233,HD,"Home Depot, Inc.",USD,United States,323.67,238668.0,77249671.56,Voya U.S. Stock Index Portfolio
+234,HON,"Honeywell International, Inc.",USD,United States,223.04,154183.0,34388976.32,Voya U.S. Stock Index Portfolio
+235,HRL,Hormel Foods Corp.,USD,United States,46.2,62267.0,2876735.4,Voya U.S. Stock Index Portfolio
+236,HST,"Host Hotels & Resorts, Inc.",USD,United States,18.16,156370.0,2839679.2,Voya U.S. Stock Index Portfolio
+237,HWM,"Howmet Aerospace, Inc.",USD,United States,31.96,86514.0,2764987.44,Voya U.S. Stock Index Portfolio
+238,HPQ,"HP, Inc.",USD,United States,34.11,277670.0,9471323.7,Voya U.S. Stock Index Portfolio
+239,HUM,"Humana, Inc.",USD,United States,445.24,28567.0,12719171.08,Voya U.S. Stock Index Portfolio
+240,HBAN,"Huntington Bancshares, Inc.",USD,United States,15.32,225510.0,3454813.2,Voya U.S. Stock Index Portfolio
+241,HII,"Huntington Ingalls Industries, Inc.",USD,United States,212.32,8924.0,1894743.68,Voya U.S. Stock Index Portfolio
+242,IEX,IDEX Corp.,USD,United States,224.2,16824.0,3771940.8,Voya U.S. Stock Index Portfolio
+243,IDXX,"Idexx Laboratories, Inc.",USD,United States,548.99,18938.0,10396772.62,Voya U.S. Stock Index Portfolio
+244,INFO,IHS Markit Ltd.,USD,United Kingdom,107.58,82644.0,8890841.52,Voya U.S. Stock Index Portfolio
+245,ITW,"Illinois Tool Works, Inc.",USD,United States,230.46,63882.0,14722245.72,Voya U.S. Stock Index Portfolio
+246,ILMN,"Illumina, Inc.",USD,United States,392.84,32344.0,12706016.96,Voya U.S. Stock Index Portfolio
+247,INCY,"Incyte Corp., Ltd.",USD,United States,85.38,41426.0,3536951.88,Voya U.S. Stock Index Portfolio
+248,IR,"Ingersoll Rand, Inc.",USD,United States,49.41,82623.0,4082402.43,Voya U.S. Stock Index Portfolio
+249,INTC,Intel Corp.,USD,United States,57.53,900713.0,51818018.89,Voya U.S. Stock Index Portfolio
+250,ICE,"Intercontinental Exchange, Inc.",USD,United States,117.71,124523.0,14657602.329999998,Voya U.S. Stock Index Portfolio
+251,IBM,International Business Machines Corp.,USD,United States,141.88,198098.0,28106144.24,Voya U.S. Stock Index Portfolio
+252,IFF,"International Flavors & Fragrances, Inc.",USD,United States,142.17,55139.0,7839111.63,Voya U.S. Stock Index Portfolio
+253,IP,International Paper Co.,USD,United States,58.0,87144.0,5054352.0,Voya U.S. Stock Index Portfolio
+254,IPG,"Interpublic Group of Cos., Inc.",USD,United States,31.75,86608.0,2749804.0,Voya U.S. Stock Index Portfolio
+255,INTU,"Intuit, Inc.",USD,United States,412.16,60707.0,25020997.12,Voya U.S. Stock Index Portfolio
+256,ISRG,"Intuitive Surgical, Inc.",USD,United States,865.0,26097.0,22573905.0,Voya U.S. Stock Index Portfolio
+257,IVZ,Invesco Ltd.,USD,United States,27.0,83452.0,2253204.0,Voya U.S. Stock Index Portfolio
+258,IPGP,IPG Photonics Corp.,USD,United States,217.11,7951.0,1726241.61,Voya U.S. Stock Index Portfolio
+259,IQV,"IQVIA Holdings, Inc.",USD,United States,234.69,42404.0,9951794.76,Voya U.S. Stock Index Portfolio
+260,IRM,"Iron Mountain, Inc.",USD,United States,40.12,63939.0,2565232.68,Voya U.S. Stock Index Portfolio
+261,JKHY,"Jack Henry & Associates, Inc.",USD,United States,162.83,16865.0,2746127.95,Voya U.S. Stock Index Portfolio
+262,J,"Jacobs Engineering Group, Inc.",USD,United States,133.61,28838.0,3853045.18,Voya U.S. Stock Index Portfolio
+263,JBHT,"JB Hunt Transport Services, Inc.",USD,United States,170.71,18512.0,3160183.52,Voya U.S. Stock Index Portfolio
+264,SJM,JM Smucker Co.,USD,United States,130.99,24294.0,3182271.06,Voya U.S. Stock Index Portfolio
+265,JNJ,Johnson & Johnson,USD,United States,162.73,582743.0,94829768.39,Voya U.S. Stock Index Portfolio
+266,JCI,Johnson Controls International plc,USD,United States,62.34,159675.0,9954139.5,Voya U.S. Stock Index Portfolio
+267,JPM,JPMorgan Chase & Co.,USD,United States,153.81,676478.0,104049081.17999999,Voya U.S. Stock Index Portfolio
+268,JNPR,"Juniper Networks, Inc.",USD,United States,25.39,72751.0,1847147.89,Voya U.S. Stock Index Portfolio
+269,KSU,Kansas City Southern,USD,United States,292.21,20140.0,5885109.4,Voya U.S. Stock Index Portfolio
+270,K,Kellogg Co.,USD,United States,62.42,56424.0,3521986.08,Voya U.S. Stock Index Portfolio
+271,KEY,Keycorp,USD,United States,21.76,214773.0,4673460.48,Voya U.S. Stock Index Portfolio
+272,KEYS,"Keysight Technologies, Inc.",USD,United States,144.35,41253.0,5954870.55,Voya U.S. Stock Index Portfolio
+273,KMB,Kimberly-Clark Corp.,USD,United States,133.32,74932.0,9989934.24,Voya U.S. Stock Index Portfolio
+274,KIM,Kimco Realty Corp.,USD,United States,21.0,95866.0,2013186.0,Voya U.S. Stock Index Portfolio
+275,KMI,"Kinder Morgan, Inc.",USD,United States,17.05,431594.0,7358677.7,Voya U.S. Stock Index Portfolio
+276,KLAC,KLA Corp.,USD,United States,315.35,34156.0,10771094.6,Voya U.S. Stock Index Portfolio
+277,KHC,Kraft Heinz Co.,USD,United States,41.29,143716.0,5934033.64,Voya U.S. Stock Index Portfolio
+278,KR,Kroger Co.,USD,United States,36.54,168781.0,6167257.74,Voya U.S. Stock Index Portfolio
+279,LB,"L Brands, Inc.",USD,United States,65.9,51789.0,3412895.1,Voya U.S. Stock Index Portfolio
+280,LHX,"L3Harris Technologies, Inc.",USD,United States,209.23,45571.0,9534820.329999998,Voya U.S. Stock Index Portfolio
+281,LH,Laboratory Corp. of America Holdings,USD,United States,265.87,21637.0,5752629.19,Voya U.S. Stock Index Portfolio
+282,LRCX,Lam Research Corp.,USD,United States,620.45,31681.0,19656476.45,Voya U.S. Stock Index Portfolio
+283,LW,"Lamb Weston Holdings, Inc.",USD,United States,80.5,32445.0,2611822.5,Voya U.S. Stock Index Portfolio
+284,LVS,Las Vegas Sands Corp.,USD,United States,61.26,72814.0,4460585.64,Voya U.S. Stock Index Portfolio
+285,LEG,"Leggett & Platt, Inc.",USD,United States,49.67,29481.0,1464321.27,Voya U.S. Stock Index Portfolio
+286,LDOS,"Leidos Holdings, Inc.",USD,United States,101.28,29569.0,2994748.32,Voya U.S. Stock Index Portfolio
+287,LEN,Lennar Corp. - Class A,USD,United States,103.6,60852.0,6304267.2,Voya U.S. Stock Index Portfolio
+288,LNC,Lincoln National Corp.,USD,United States,64.13,40001.0,2565264.13,Voya U.S. Stock Index Portfolio
+289,LIN,Linde Public Ltd.,USD,United States,285.84,115906.0,33130571.04,Voya U.S. Stock Index Portfolio
+290,LYV,"Live Nation Entertainment, Inc.",USD,United States,81.88,31815.0,2605012.2,Voya U.S. Stock Index Portfolio
+291,LKQ,LKQ Corp.,USD,United States,46.71,61861.0,2889527.31,Voya U.S. Stock Index Portfolio
+292,LMT,Lockheed Martin Corp.,USD,United States,380.56,54644.0,20795320.64,Voya U.S. Stock Index Portfolio
+293,L,Loews Corp.,USD,United States,55.75,50321.0,2805395.75,Voya U.S. Stock Index Portfolio
+294,LOW,"Lowe's Cos, Inc.",USD,United States,196.25,162053.0,31802901.25,Voya U.S. Stock Index Portfolio
+295,LUMN,"Lumen Technologies, Inc.",USD,United States,12.83,218841.0,2807730.03,Voya U.S. Stock Index Portfolio
+296,LYB,LyondellBasell Industries NV - Class A,USD,Netherlands,103.74,57036.0,5916914.64,Voya U.S. Stock Index Portfolio
+297,MTB,M&T Bank Corp.,USD,United States,157.69,28516.0,4496688.04,Voya U.S. Stock Index Portfolio
+298,MRO,Marathon Oil Corp.,USD,United States,11.26,174998.0,1970477.48,Voya U.S. Stock Index Portfolio
+299,MPC,Marathon Petroleum Corp.,USD,United States,55.65,144379.0,8034691.35,Voya U.S. Stock Index Portfolio
+300,MKTX,"MarketAxess Holdings, Inc.",USD,United States,488.46,8423.0,4114298.58,Voya U.S. Stock Index Portfolio
+301,MAR,"Marriott International, Inc.",USD,United States,148.52,58973.0,8758669.96,Voya U.S. Stock Index Portfolio
+302,MMC,"Marsh & McLennan Cos., Inc.",USD,United States,135.7,112658.0,15287690.6,Voya U.S. Stock Index Portfolio
+303,MLM,"Martin Marietta Materials, Inc.",USD,United States,353.12,13808.0,4875880.96,Voya U.S. Stock Index Portfolio
+304,MAS,Masco Corp.,USD,United States,63.88,57005.0,3641479.4,Voya U.S. Stock Index Portfolio
+305,MA,"Mastercard, Inc. - Class A",USD,United States,382.06,194371.0,74261384.26,Voya U.S. Stock Index Portfolio
+306,MXIM,Maxim Integrated Products,USD,United States,94.0,59421.0,5585574.0,Voya U.S. Stock Index Portfolio
+307,MKC,"McCormick & Co., Inc.",USD,United States,90.36,55188.0,4986787.68,Voya U.S. Stock Index Portfolio
+308,MCD,McDonald's Corp.,USD,United States,236.08,165283.0,39020010.64,Voya U.S. Stock Index Portfolio
+309,MCK,McKesson Corp.,USD,United States,187.56,35248.0,6611114.88,Voya U.S. Stock Index Portfolio
+310,MDT,Medtronic PLC,USD,Ireland,130.92,298850.0,39125442.0,Voya U.S. Stock Index Portfolio
+311,MRK,"Merck & Co., Inc.",USD,United States,74.5,560937.0,41789806.5,Voya U.S. Stock Index Portfolio
+312,MET,"Metlife, Inc.",USD,United States,63.63,166651.0,10604003.129999999,Voya U.S. Stock Index Portfolio
+313,MTD,"Mettler Toledo International, Inc.",USD,United States,1313.32,5189.0,6814817.48,Voya U.S. Stock Index Portfolio
+314,MGM,MGM Resorts International,USD,United States,40.72,91053.0,3707678.16,Voya U.S. Stock Index Portfolio
+315,MCHP,"Microchip Technology, Inc.",USD,United States,150.29,59692.0,8971110.68,Voya U.S. Stock Index Portfolio
+316,MU,"Micron Technology, Inc.",USD,United States,86.07,247995.0,21344929.65,Voya U.S. Stock Index Portfolio
+317,MSFT,Microsoft Corp.,USD,United States,252.18,1672009.0,421647229.62,Voya U.S. Stock Index Portfolio
+318,MAA,"Mid-America Apartment Communities, Inc.",USD,United States,157.33,25359.0,3989731.47,Voya U.S. Stock Index Portfolio
+319,MHK,"Mohawk Industries, Inc.",USD,United States,205.5,13077.0,2687323.5,Voya U.S. Stock Index Portfolio
+320,TAP,Molson Coors Beverage Co.,USD,United States,54.95,41729.0,2293008.55,Voya U.S. Stock Index Portfolio
+321,MDLZ,"Mondelez International, Inc.",USD,United States,60.81,313047.0,19036388.07,Voya U.S. Stock Index Portfolio
+322,MPWR,"Monolithic Power Systems, Inc.",USD,United States,361.38,9507.0,3435639.66,Voya U.S. Stock Index Portfolio
+323,MNST,Monster Beverage Corp.,USD,United States,97.05,81957.0,7953926.85,Voya U.S. Stock Index Portfolio
+324,MCO,Moody's Corp.,USD,United States,326.71,35671.0,11654072.409999998,Voya U.S. Stock Index Portfolio
+325,MS,Morgan Stanley,USD,United States,82.55,332674.0,27462238.700000003,Voya U.S. Stock Index Portfolio
+326,MOS,Mosaic Co.,USD,United States,35.18,76476.0,2690425.68,Voya U.S. Stock Index Portfolio
+327,MSI,"Motorola Solutions, Inc.",USD,United States,188.3,37471.0,7055789.3,Voya U.S. Stock Index Portfolio
+328,MSCI,"MSCI, Inc. - Class A",USD,United States,485.77,18306.0,8892505.62,Voya U.S. Stock Index Portfolio
+329,NDAQ,"Nasdaq, Inc.",USD,United States,161.54,25573.0,4131062.42,Voya U.S. Stock Index Portfolio
+330,NTAP,"NetApp, Inc.",USD,United States,74.69,49348.0,3685802.12,Voya U.S. Stock Index Portfolio
+331,NFLX,"NetFlix, Inc.",USD,United States,513.47,98184.0,50414538.48,Voya U.S. Stock Index Portfolio
+332,NWL,"Newell Brands, Inc.",USD,United States,26.96,83774.0,2258547.04,Voya U.S. Stock Index Portfolio
+333,NEM,Newmont Corp.,USD,United States,62.41,177419.0,11072719.790000001,Voya U.S. Stock Index Portfolio
+334,NWSA,News Corp - Class A,USD,United States,26.195,86700.0,2271106.5,Voya U.S. Stock Index Portfolio
+335,NWS,News Corp - Class B,USD,United States,24.31,26996.0,656272.76,Voya U.S. Stock Index Portfolio
+336,NEE,"NextEra Energy, Inc.",USD,United States,77.51,434478.0,33676389.78,Voya U.S. Stock Index Portfolio
+337,NLSN,Nielsen Holdings PLC,USD,United States,25.65,79318.0,2034506.7,Voya U.S. Stock Index Portfolio
+338,NKE,"Nike, Inc.",USD,United States,132.62,281870.0,37381599.4,Voya U.S. Stock Index Portfolio
+339,NI,"NiSource, Inc.",USD,United States,26.02,86870.0,2260357.4,Voya U.S. Stock Index Portfolio
+340,NSC,Norfolk Southern Corp.,USD,United States,279.24,55846.0,15594437.04,Voya U.S. Stock Index Portfolio
+341,NTRS,Northern Trust Corp.,USD,United States,113.8,46180.0,5255284.0,Voya U.S. Stock Index Portfolio
+342,NOC,Northrop Grumman Corp.,USD,United States,354.44,34372.0,12182811.68,Voya U.S. Stock Index Portfolio
+343,NLOK,"NortonLifeLock, Inc.",USD,United States,21.61,129000.0,2787690.0,Voya U.S. Stock Index Portfolio
+344,NCLH,Norwegian Cruise Line Holdings Ltd.,USD,United States,31.05,80520.0,2500146.0,Voya U.S. Stock Index Portfolio
+345,NOV,"NOV, Inc.",USD,United States,14.95,86061.0,1286611.95,Voya U.S. Stock Index Portfolio
+346,NRG,"NRG Energy, Inc.",USD,United States,35.82,54244.0,1943020.08,Voya U.S. Stock Index Portfolio
+347,NUE,Nucor Corp.,USD,United States,82.26,66073.0,5435164.98,Voya U.S. Stock Index Portfolio
+348,NVDA,Nvidia Corp.,USD,United States,600.38,137446.0,82519829.47999999,Voya U.S. Stock Index Portfolio
+349,NVR,"NVR, Inc.",USD,United States,5018.1,767.0,3848882.7,Voya U.S. Stock Index Portfolio
+350,NXPI,NXP Semiconductor NV - NXPI - US,USD,Netherlands,192.51,61409.0,11821846.590000002,Voya U.S. Stock Index Portfolio
+351,ORLY,"O'Reilly Automotive, Inc.",USD,United States,552.88,15564.0,8605024.32,Voya U.S. Stock Index Portfolio
+352,OXY,Occidental Petroleum Corp.,USD,United States,25.36,185862.0,4713460.32,Voya U.S. Stock Index Portfolio
+353,ODFL,Old Dominion Freight Line,USD,United States,257.81,21257.0,5480267.17,Voya U.S. Stock Index Portfolio
+354,OMC,Omnicom Group,USD,United States,82.26,47666.0,3921005.16,Voya U.S. Stock Index Portfolio
+355,OKE,"Oneok, Inc.",USD,United States,52.34,98647.0,5163183.98,Voya U.S. Stock Index Portfolio
+356,ORCL,Oracle Corp.,USD,United States,75.79,411172.0,31162725.88,Voya U.S. Stock Index Portfolio
+357,OTIS,Otis Worldwide Corp.,USD,United States,77.87,90371.0,7037189.77,Voya U.S. Stock Index Portfolio
+358,PCAR,"Paccar, Inc.",USD,United States,89.88,76911.0,6912760.68,Voya U.S. Stock Index Portfolio
+359,PKG,Packaging Corp. of America,USD,United States,147.65,21022.0,3103898.3,Voya U.S. Stock Index Portfolio
+360,PH,Parker Hannifin Corp.,USD,United States,313.81,28616.0,8979986.96,Voya U.S. Stock Index Portfolio
+361,PAYX,"Paychex, Inc.",USD,United States,97.49,71153.0,6936705.97,Voya U.S. Stock Index Portfolio
+362,PAYC,"Paycom Software, Inc.",USD,United States,384.41,10880.0,4182380.8,Voya U.S. Stock Index Portfolio
+363,PYPL,"PayPal Holdings, Inc.",USD,United States,262.29,259634.0,68099401.86,Voya U.S. Stock Index Portfolio
+364,PENN,"Penn National Gaming, Inc.",USD,United States,89.12,32956.0,2937038.72,Voya U.S. Stock Index Portfolio
+365,PNR,Pentair PLC,USD,United States,64.51,36814.0,2374871.14,Voya U.S. Stock Index Portfolio
+366,PBCT,"People's United Financial, Inc.",USD,United States,18.13,94333.0,1710257.29,Voya U.S. Stock Index Portfolio
+367,PEP,"PepsiCo, Inc.",USD,United States,144.16,305841.0,44090038.56,Voya U.S. Stock Index Portfolio
+368,PKI,"PerkinElmer, Inc.",USD,United States,129.63,24843.0,3220398.09,Voya U.S. Stock Index Portfolio
+369,PRGO,Perrigo Co. PLC,USD,United States,41.63,29506.0,1228334.78,Voya U.S. Stock Index Portfolio
+370,PFE,"Pfizer, Inc.",USD,United States,38.65,1236486.0,47790183.9,Voya U.S. Stock Index Portfolio
+371,PM,"Philip Morris International, Inc.",USD,United States,95.0,345236.0,32797420.0,Voya U.S. Stock Index Portfolio
+372,PSX,Phillips 66,USD,United States,80.91,96833.0,7834758.03,Voya U.S. Stock Index Portfolio
+373,PNW,Pinnacle West Capital Corp.,USD,United States,84.65,24982.0,2114726.3,Voya U.S. Stock Index Portfolio
+374,PXD,Pioneer Natural Resources Co.,USD,United States,153.83,45612.0,7016493.96,Voya U.S. Stock Index Portfolio
+375,PNC,"PNC Financial Services Group, Inc.",USD,United States,186.95,94000.0,17573300.0,Voya U.S. Stock Index Portfolio
+376,POOL,Pool Corp.,USD,United States,422.52,8918.0,3768033.36,Voya U.S. Stock Index Portfolio
+377,PPG,"PPG Industries, Inc.",USD,United States,171.24,52528.0,8994894.72,Voya U.S. Stock Index Portfolio
+378,PPL,PPL Corp.,USD,United States,29.13,170474.0,4965907.62,Voya U.S. Stock Index Portfolio
+379,PFG,"Principal Financial Group, Inc.",USD,United States,63.87,56204.0,3589749.48,Voya U.S. Stock Index Portfolio
+380,PG,Procter & Gamble Co.,USD,United States,133.42,545898.0,72833711.16000001,Voya U.S. Stock Index Portfolio
+381,PGR,Progressive Corp.,USD,United States,100.74,129853.0,13081391.22,Voya U.S. Stock Index Portfolio
+382,PLD,"ProLogis, Inc.",USD,United States,116.53,163937.0,19103578.61,Voya U.S. Stock Index Portfolio
+383,PRU,"Prudential Financial, Inc.",USD,United States,100.36,88010.0,8832683.6,Voya U.S. Stock Index Portfolio
+384,PTC,"PTC, Inc.",USD,United States,130.94,23306.0,3051687.64,Voya U.S. Stock Index Portfolio
+385,PEG,"Public Service Enterprise Group, Inc.",USD,United States,63.16,111972.0,7072151.52,Voya U.S. Stock Index Portfolio
+386,PSA,"Public Storage, Inc.",USD,United States,281.16,33711.0,9478184.76,Voya U.S. Stock Index Portfolio
+387,PHM,"Pulte Group, Inc.",USD,United States,59.12,58945.0,3484828.4,Voya U.S. Stock Index Portfolio
+388,PVH,PVH Corp.,USD,United States,113.18,15762.0,1783943.16,Voya U.S. Stock Index Portfolio
+389,QRVO,"Qorvo, Inc.",USD,United States,188.17,25109.0,4724760.53,Voya U.S. Stock Index Portfolio
+390,QCOM,"Qualcomm, Inc.",USD,United States,138.8,251836.0,34954836.8,Voya U.S. Stock Index Portfolio
+391,PWR,"Quanta Services, Inc.",USD,United States,96.64,30674.0,2964335.36,Voya U.S. Stock Index Portfolio
+392,DGX,"Quest Diagnostics, Inc.",USD,United States,131.88,29585.0,3901669.8,Voya U.S. Stock Index Portfolio
+393,RL,Ralph Lauren Corp.,USD,United States,133.29,10694.0,1425403.26,Voya U.S. Stock Index Portfolio
+394,RJF,"Raymond James Financial, Inc.",USD,United States,130.78,27171.0,3553423.38,Voya U.S. Stock Index Portfolio
+395,RTX,Raytheon Technologies Corp.,USD,United States,83.24,336848.0,28039227.52,Voya U.S. Stock Index Portfolio
+396,O,Realty Income Corp.,USD,United States,69.15,82776.0,5723960.4,Voya U.S. Stock Index Portfolio
+397,REG,Regency Centers Corp.,USD,United States,63.66,35013.0,2228927.58,Voya U.S. Stock Index Portfolio
+398,REGN,"Regeneron Pharmaceuticals, Inc.",USD,United States,481.3,23340.0,11233542.0,Voya U.S. Stock Index Portfolio
+399,RF,Regions Financial Corp.,USD,United States,21.8,212969.0,4642724.2,Voya U.S. Stock Index Portfolio
+400,RSG,"Republic Services, Inc.",USD,United States,106.3,46659.0,4959851.7,Voya U.S. Stock Index Portfolio
+401,RMD,"Resmed, Inc.",USD,United States,187.97,32257.0,6063348.29,Voya U.S. Stock Index Portfolio
+402,RHI,"Robert Half International, Inc.",USD,United States,87.61,25078.0,2197083.58,Voya U.S. Stock Index Portfolio
+403,ROK,"Rockwell Automation, Inc.",USD,United States,264.26,25750.0,6804695.0,Voya U.S. Stock Index Portfolio
+404,ROL,"Rollins, Inc.",USD,United States,37.28,49094.0,1830224.32,Voya U.S. Stock Index Portfolio
+405,ROP,"Roper Technologies, Inc.",USD,United States,446.44,23264.0,10385980.16,Voya U.S. Stock Index Portfolio
+406,ROST,"Ross Stores, Inc.",USD,United States,130.94,78922.0,10334046.68,Voya U.S. Stock Index Portfolio
+407,RCL,Royal Caribbean Cruises Ltd.,USD,United States,86.95,48532.0,4219857.4,Voya U.S. Stock Index Portfolio
+408,SPGI,"S&P Global, Inc.",USD,United States,390.39,53360.0,20831210.4,Voya U.S. Stock Index Portfolio
+410,CRM,"Salesforce.com, Inc.",USD,United States,230.32,203450.0,46858604.0,Voya U.S. Stock Index Portfolio
+411,SBAC,SBA Communications Corp.,USD,United States,299.72,24236.0,7264013.92,Voya U.S. Stock Index Portfolio
+412,SLB,Schlumberger NV,USD,United States,27.05,309978.0,8384904.9,Voya U.S. Stock Index Portfolio
+413,STX,Seagate Technology,USD,United States,92.84,44530.0,4134165.2,Voya U.S. Stock Index Portfolio
+414,SEE,Sealed Air Corp.,USD,United States,49.4,34343.0,1696544.2,Voya U.S. Stock Index Portfolio
+415,SRE,Sempra Energy,USD,United States,137.57,67080.0,9228195.6,Voya U.S. Stock Index Portfolio
+416,NOW,"ServiceNow, Inc.",USD,United States,506.37,43473.0,22013423.009999998,Voya U.S. Stock Index Portfolio
+417,SHW,Sherwin-Williams Co.,USD,United States,273.87,53632.0,14688195.84,Voya U.S. Stock Index Portfolio
+418,SPG,"Simon Property Group, Inc.",USD,United States,121.74,72824.0,8865593.76,Voya U.S. Stock Index Portfolio
+419,SWKS,"Skyworks Solutions, Inc.",USD,United States,181.33,36556.0,6628699.48,Voya U.S. Stock Index Portfolio
+420,SNA,"Snap-On, Inc.",USD,United States,237.6,12016.0,2855001.6,Voya U.S. Stock Index Portfolio
+421,SO,Southern Co.,USD,United States,66.17,234236.0,15499396.12,Voya U.S. Stock Index Portfolio
+422,LUV,Southwest Airlines Co.,USD,United States,62.78,130945.0,8220727.1,Voya U.S. Stock Index Portfolio
+423,SWK,"Stanley Black & Decker, Inc.",USD,United States,206.77,35668.0,7375072.36,Voya U.S. Stock Index Portfolio
+424,SBUX,Starbucks Corp.,USD,United States,114.49,260992.0,29880974.08,Voya U.S. Stock Index Portfolio
+425,STT,State Street Corp.,USD,United States,83.95,77986.0,6546924.7,Voya U.S. Stock Index Portfolio
+426,STE,STERIS Public Ltd. Co.,USD,United States,211.02,18922.0,3992920.44,Voya U.S. Stock Index Portfolio
+427,SYK,Stryker Corp.,USD,United States,262.63,72557.0,19055644.91,Voya U.S. Stock Index Portfolio
+428,SIVB,SVB Financial Group,USD,United States,571.83,11966.0,6842517.78,Voya U.S. Stock Index Portfolio
+429,SYF,Synchrony Financial,USD,United States,43.74,120402.0,5266383.48,Voya U.S. Stock Index Portfolio
+430,SNPS,"Synopsys, Inc.",USD,United States,247.06,33779.0,8345439.74,Voya U.S. Stock Index Portfolio
+431,SYY,Sysco Corp.,USD,United States,84.73,113152.0,9587368.96,Voya U.S. Stock Index Portfolio
+432,TMUS,"T-Mobile US, Inc.",USD,United States,132.13,129491.0,17109645.830000002,Voya U.S. Stock Index Portfolio
+433,TROW,"T. Rowe Price Group, Inc.",USD,United States,179.2,50533.0,9055513.6,Voya U.S. Stock Index Portfolio
+434,TTWO,"Take-Two Interactive Software, Inc.",USD,United States,175.38,25533.0,4477977.54,Voya U.S. Stock Index Portfolio
+435,TPR,"Tapestry, Inc.",USD,United States,47.85,61593.0,2947225.05,Voya U.S. Stock Index Portfolio
+436,TGT,Target Corp.,USD,United States,207.26,111038.0,23013735.88,Voya U.S. Stock Index Portfolio
+437,TEL,TE Connectivity Ltd.,USD,United States,134.47,73354.0,9863912.38,Voya U.S. Stock Index Portfolio
+438,TDY,"Teledyne Technologies, Inc.",USD,United States,447.75,8207.0,3674684.25,Voya U.S. Stock Index Portfolio
+439,TFX,"Teleflex, Inc.",USD,United States,422.48,10351.0,4373090.48,Voya U.S. Stock Index Portfolio
+440,TER,"Teradyne, Inc.",USD,United States,125.08,36954.0,4622206.32,Voya U.S. Stock Index Portfolio
+441,TSLA,"Tesla, Inc.",USD,United States,709.44,170230.0,120767971.2,Voya U.S. Stock Index Portfolio
+442,TXN,"Texas Instruments, Inc.",USD,United States,180.51,204005.0,36824942.550000004,Voya U.S. Stock Index Portfolio
+443,TXT,"Textron, Inc.",USD,United States,64.24,50306.0,3231657.44,Voya U.S. Stock Index Portfolio
+444,TMO,"Thermo Fisher Scientific, Inc.",USD,United States,470.23,87299.0,41050608.77,Voya U.S. Stock Index Portfolio
+445,TJX,"TJX Cos., Inc.",USD,United States,71.0,266164.0,18897644.0,Voya U.S. Stock Index Portfolio
+446,TSCO,Tractor Supply Co.,USD,United States,188.6,25783.0,4862673.8,Voya U.S. Stock Index Portfolio
+447,TT,Trane Technologies PLC,USD,Ireland,173.83,52857.0,9188132.31,Voya U.S. Stock Index Portfolio
+448,TDG,"TransDigm Group, Inc.",USD,United States,613.74,12124.0,7440983.76,Voya U.S. Stock Index Portfolio
+449,TRV,"Travelers Cos, Inc.",USD,United States,154.66,55912.0,8647349.92,Voya U.S. Stock Index Portfolio
+450,TRMB,"Trimble, Inc.",USD,United States,82.0,55638.0,4562316.0,Voya U.S. Stock Index Portfolio
+451,TFC,Truist Financial Corp.,USD,United States,59.31,298656.0,17713287.36,Voya U.S. Stock Index Portfolio
+452,TWTR,"Twitter, Inc.",USD,United States,55.22,176940.0,9770626.8,Voya U.S. Stock Index Portfolio
+453,TYL,"Tyler Technologies, Inc.",USD,United States,424.86,8995.0,3821615.7,Voya U.S. Stock Index Portfolio
+454,TSN,"Tyson Foods, Inc.",USD,United States,77.45,65336.0,5060273.2,Voya U.S. Stock Index Portfolio
+455,UDR,"UDR, Inc.",USD,United States,46.45,65801.0,3056456.45,Voya U.S. Stock Index Portfolio
+456,ULTA,"Ulta Beauty, Inc.",USD,United States,329.35,12490.0,4113581.5,Voya U.S. Stock Index Portfolio
+457,UAA,"Under Armour, Inc. - Class A",USD,United States,24.31,41814.0,1016498.34,Voya U.S. Stock Index Portfolio
+458,UA,"Under Armour, Inc. - Class C",USD,United States,19.91,43199.0,860092.09,Voya U.S. Stock Index Portfolio
+459,UNP,Union Pacific Corp.,USD,United States,222.09,148492.0,32978588.28,Voya U.S. Stock Index Portfolio
+460,UAL,"United Airlines Holdings, Inc.",USD,United States,54.4,70602.0,3840748.8,Voya U.S. Stock Index Portfolio
+461,UPS,"United Parcel Service, Inc. - Class B",USD,United States,203.86,159505.0,32516689.299999997,Voya U.S. Stock Index Portfolio
+462,URI,"United Rentals, Inc.",USD,United States,319.95,16006.0,5121119.7,Voya U.S. Stock Index Portfolio
+463,UNH,"UnitedHealth Group, Inc.",USD,United States,398.8,209565.0,83574521.99999999,Voya U.S. Stock Index Portfolio
+464,UHS,"Universal Health Services, Inc.",USD,United States,148.41,17255.0,2560814.55,Voya U.S. Stock Index Portfolio
+465,UNM,Unum Group,USD,United States,28.26,45164.0,1276334.64,Voya U.S. Stock Index Portfolio
+466,USB,US Bancorp,USD,United States,59.35,303033.0,17985008.55,Voya U.S. Stock Index Portfolio
+467,VLO,Valero Energy Corp.,USD,United States,73.96,90573.0,6698779.08,Voya U.S. Stock Index Portfolio
+468,VTR,"Ventas, Inc.",USD,United States,55.46,83057.0,4606341.22,Voya U.S. Stock Index Portfolio
+469,VRSN,"VeriSign, Inc.",USD,United States,218.77,22063.0,4826722.51,Voya U.S. Stock Index Portfolio
+470,VRSK,"Verisk Analytics, Inc.",USD,United States,188.2,36089.0,6791949.8,Voya U.S. Stock Index Portfolio
+471,VZ,"Verizon Communications, Inc.",USD,United States,57.79,917372.0,53014927.879999995,Voya U.S. Stock Index Portfolio
+472,VRTX,"Vertex Pharmaceuticals, Inc.",USD,United States,218.2,57630.0,12574866.0,Voya U.S. Stock Index Portfolio
+473,VFC,VF Corp.,USD,United States,87.66,71207.0,6242005.62,Voya U.S. Stock Index Portfolio
+474,VIAC,"ViacomCBS, Inc.",USD,United States,41.02,130250.0,5342855.0,Voya U.S. Stock Index Portfolio
+475,VTRS,"Viatris, Inc.",USD,United States,13.3,267594.0,3559000.2,Voya U.S. Stock Index Portfolio
+476,V,"Visa, Inc. - Class A",USD,United States,233.56,376006.0,87819961.35999998,Voya U.S. Stock Index Portfolio
+477,VNO,Vornado Realty Trust,USD,United States,45.75,34785.0,1591413.75,Voya U.S. Stock Index Portfolio
+478,VMC,Vulcan Materials Co.,USD,United States,178.24,29384.0,5237404.16,Voya U.S. Stock Index Portfolio
+479,WBA,"Walgreens Boots Alliance, Inc.",USD,United States,53.1,158984.0,8442050.4,Voya U.S. Stock Index Portfolio
+480,WMT,"Walmart, Inc.",USD,United States,139.91,307335.0,42999239.85,Voya U.S. Stock Index Portfolio
+481,DIS,Walt Disney Co.,USD,United States,186.02,402420.0,74858168.39999999,Voya U.S. Stock Index Portfolio
+482,WM,"Waste Management, Inc.",USD,United States,137.97,86303.0,11907224.91,Voya U.S. Stock Index Portfolio
+483,WAT,Waters Corp.,USD,United States,299.87,13786.0,4134007.82,Voya U.S. Stock Index Portfolio
+484,WEC,"WEC Energy Group, Inc.",USD,United States,97.17,69928.0,6794903.76,Voya U.S. Stock Index Portfolio
+485,WFC,Wells Fargo & Co.,USD,United States,45.05,916476.0,41287243.800000004,Voya U.S. Stock Index Portfolio
+486,WELL,"Welltower, Inc.",USD,United States,75.03,92528.0,6942375.84,Voya U.S. Stock Index Portfolio
+487,WST,"West Pharmaceutical Services, Inc.",USD,United States,328.52,16428.0,5396926.56,Voya U.S. Stock Index Portfolio
+488,WDC,Western Digital Corp.,USD,United States,70.63,67858.0,4792810.54,Voya U.S. Stock Index Portfolio
+489,WU,Western Union Co.,USD,United States,25.76,91096.0,2346632.96,Voya U.S. Stock Index Portfolio
+490,WAB,Westinghouse Air Brake Technologies Corp.,USD,United States,82.07,39363.0,3230521.41,Voya U.S. Stock Index Portfolio
+491,WRK,WestRock Co.,USD,United States,55.75,58418.0,3256803.5,Voya U.S. Stock Index Portfolio
+492,WY,Weyerhaeuser Co.,USD,United States,38.77,165770.0,6426902.9,Voya U.S. Stock Index Portfolio
+493,WHR,Whirlpool Corp.,USD,United States,236.45,13916.0,3290438.2,Voya U.S. Stock Index Portfolio
+494,WMB,"Williams Cos., Inc.",USD,United States,24.36,269081.0,6554813.16,Voya U.S. Stock Index Portfolio
+495,WLTW,Willis Towers Watson PLC,USD,United Kingdom,258.86,28591.0,7401066.26,Voya U.S. Stock Index Portfolio
+496,WRB,WR Berkley Corp.,USD,United States,79.72,31062.0,2476262.64,Voya U.S. Stock Index Portfolio
+497,GWW,"WW Grainger, Inc.",USD,United States,433.54,9753.0,4228315.62,Voya U.S. Stock Index Portfolio
+498,WYNN,Wynn Resorts Ltd.,USD,United States,128.4,23324.0,2994801.6,Voya U.S. Stock Index Portfolio
+499,XEL,"Xcel Energy, Inc.",USD,United States,71.3,119190.0,8498247.0,Voya U.S. Stock Index Portfolio
+500,XLNX,"Xilinx, Inc.",USD,United States,127.96,54483.0,6971644.68,Voya U.S. Stock Index Portfolio
+501,XYL,"Xylem, Inc.",USD,United States,110.65,39983.0,4424118.95,Voya U.S. Stock Index Portfolio
+502,YUM,"Yum! Brands, Inc.",USD,United States,119.52,66518.0,7950231.36,Voya U.S. Stock Index Portfolio
+503,ZBRA,Zebra Technologies Corp.,USD,United States,487.74,11853.0,5781182.22,Voya U.S. Stock Index Portfolio
+504,ZBH,"Zimmer Biomet Holdings, Inc.",USD,United States,177.16,46079.0,8163355.64,Voya U.S. Stock Index Portfolio
+505,ZION,Zions Bancorp NA,USD,United States,55.8,36404.0,2031343.2,Voya U.S. Stock Index Portfolio
+506,ZTS,"Zoetis, Inc.",USD,United States,173.03,105338.0,18226634.14,Voya U.S. Stock Index Portfolio
