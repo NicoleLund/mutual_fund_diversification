@@ -8,14 +8,15 @@
 
 --------------------------------------------------------------------------------
 --
--- quick_db_diagrams.txt
+-- Schemas.sql
 -- 
 -- By Anne Niemiec 
 -- 
--- This file contains the code for generating a DataBase Diagram from
+-- This file contains the SQL code for creating the tables defined in
+-- quick_db)diagrams.txt
 --
--- https://app.quickdatabasediagrams.com/
--- 
+-- These queries were used in e_sql_load/sql_load.py
+--
 --------------------------------------------------------------------------------
 
 CREATE TABLE "sp500" (
