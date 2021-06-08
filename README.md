@@ -41,7 +41,7 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
 -----
 
 ## Repository Structure
-* 0_source_data: Downloaded mutual fund holdings Excel files
+* a_source_data: Downloaded mutual fund holdings Excel files
 * 1_holdings_cleanup: Jupyter notebook converted into Python script for mutual fund holdings extraction and DataFrame cleanup
 * 2_sp500_scraping: Jupyter notebook converted into Python script for S&P 500 extraction and DataFrame cleanup
 * 3_database_diagram: Pre-planned PostgreSQL database schema scripts and diagram

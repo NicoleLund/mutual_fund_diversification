@@ -22,11 +22,11 @@ import pandas as pd
 # Add all subfolders to search path
 #######################################################################
 # Append subfolder directories
-sys.path.append('1_holdings_cleanup')
-sys.path.append('2_sp500_scraping')
-sys.path.append('3_database_diagram')
-sys.path.append('4_sql_load')
-sys.path.append('5_sql_analysis')
+sys.path.append('b_holdings_cleanup')
+sys.path.append('c_sp500_scraping')
+sys.path.append('d_database_diagram')
+sys.path.append('e_sql_load')
+sys.path.append('f_sql_analysis')
 
 
 ######################################################################
