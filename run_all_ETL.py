@@ -13,35 +13,12 @@ the holdings of 5 mutual funds.
 #######################################################################
 
 # Import Dependencies
-import pathlib
 import sys
 import pandas as pd
 
 
 #######################################################################
-# Add all subfolders to search path - Option 1
-#######################################################################
-
-# # Root Directory
-# workspace_path = pathlib.Path().absolute()
-
-# # Subfolder Directories
-# holdings_cleanup_path = workspace_path.joinpath('1_holdings_cleanup')
-# sp500_scraping_path = workspace_path.joinpath('2_sp500_scraping')
-# database_diagram_path = workspace_path.joinpath('3_database_diagram')
-# sql_load_path = workspace_path.joinpath('4_sql_load')
-# sql_analysis_path = workspace_path.joinpath('5_sql_analysis')
-
-# # Append subfolder directories
-# sys.path.append(holdings_cleanup_path)
-# sys.path.append(sp500_scraping_path)
-# sys.path.append(database_diagram_path)
-# sys.path.append(sql_load_path)
-# sys.path.append(sql_analysis_path)
-
-
-#######################################################################
-# Add all subfolders to search path - Option 2
+# Add all subfolders to search path
 #######################################################################
 # Append subfolder directories
 sys.path.append('1_holdings_cleanup')
@@ -59,7 +36,8 @@ from holdings_clean import df_final as holdings_df
 # Review holdings data transferred
 print('')
 print('----- Holdings DataFrame Tranfer Verification -----')
-print(holdings_df.head())
+print(holdings_df.info())
+# print(holdings_df.head())
 
 
 #######################################################################
@@ -70,4 +48,17 @@ from sp500_scrape import sp500_df
 # Review S&P 500 data transferred
 print('')
 print('----- S&P 500 DataFrame Tranfer Verification -----')
-print(sp500_df.head())
+print(sp500_df.info())
+# print(sp500_df.head())
+
+
+######################################################################
+# Load DataFrames to PostgreSQL database
+#######################################################################
+
+
+
+######################################################################
+# Perform Analysis Queries in PostgreSQL database
+#######################################################################
+
