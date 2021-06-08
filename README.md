@@ -5,7 +5,13 @@
 -----
 
 ## Project Description
-Investigate the types of stock holdings of 5 Mutual Funds including the percentage of stocks in the funds that are on the S&P 500 list and sub-categories of funds in each fund.
+
+Investors want to avoid mutual funds that contain similar holdings to what already exists in their portfolio. This project examines the holdings of 5 mutual funds of interest to determine what percentage of their holdings are S&P 500 companies and how the funds compare to each other.  This helps the investor build a diversified portfolio containing different stock strategies and gain insight into how much money should be invested in each mutual fund. 
+
+This project collects mutual fund holdings data and S&P 500 data within a common database for analysis using an Extract, Transform, Load (ETL) pipeline.  Then SQL queries are run to determine if the selected funds can build a diversified portfolio.  SQL queries of interest include:
+* Determining the percentage of S&P 500 companies included within each mutual fund and analyzing what percent of the entire portfolio is represented by S&P 500 securities to explain the diversification of the portfolio.
+    * As an example, index funds map to the S&P 500 list so investors expect to see <mark>80-100%</mark> of the index fund holdings containing S&P 500 securities. If an investor wants to purchase shares in an index fund, then they would want to include other mutual funds within their portfolio that contain less than <mark>20%</mark> of S&P 500 companies in their holdings to increase diversification.
+* Determining the statistics on sub-categories of stock holdings for the mutual funds to review an alternate diversification metric.
 
 ## Data Sources
 * Mutual Fund Holdings Data (https://individuals.voya.com/product/variable-portfolio/holdings/monthly):  
@@ -40,7 +46,8 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
 * Use pandas and sqlalchemy to upload DataFrames to cloud-based SQL PostgreSQL database
 
 ## Data Analysis
-*Replace with details*
+
+<mark>Replace with details</mark>
 
 -----
 
@@ -75,7 +82,12 @@ This project performed ETL (Extract, Transform and Load) on stock market funds a
 
 ![Database Schema Diagram](d_database_diagram/Database_diagram.PNG)
 
-*Replace with further details*
+The database was queried to determine the diversification of the mutual funds of interest.
+
+* All of the selected mutual funds hold more than 80% of their holdings in S&P 500 stocks. If we used this analysis to make an investment decision, we would only invest in the fund with the largest exposure to S&P 500 stocks, then continue looking for other funds containing less holdings overlap than the 5 mutual funds analyzed here.
+
+* The sector weight shows that all the funds, except Voya Large Cap Growth fund, have similar diversification weights. The Voya Large Cap Growth fund is invested more in the Information Technology sector.  The client goals can help inform the decision for choosing between the analyzed stocks.  If the client is young, a Financial Advisor might advise investing in the Voya Large Cap Growth fund because it will perform slightly more aggressively than the other funds.  If the client is more conservative, then the Financial Advisor might recommend the Voya US stock Index fund which mirrors S&P 500. 
+
 
 -----
 
