@@ -69,9 +69,12 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
 
 -----
 
-## Analysis Results
-*Replace with details*
+## Project Results
+This project performed ETL (Extract, Transform and Load) on stock market funds and a table of S&P 500 stocks.  The ETL process built a Database with the following Schema. 
 
+![Database Schema Diagram](d_database_diagram/Database_diagram.PNG)
+
+*Replace with further details*
 
 -----
 
