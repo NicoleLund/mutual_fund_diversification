@@ -84,3 +84,7 @@ df_final = df.rename(columns={'Ticker': 'ticker',
                      'Quantity' : 'quantity',
                      'Market Value' : 'market_value',
                     })
+
+# Reset the index to unique values
+df_final = df_final.reset_index()
+df_final = df_final[['fund_name','ticker','security_name','currency','country','price','quantity','market_value']]

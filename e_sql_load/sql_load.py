@@ -38,6 +38,7 @@ def load_sql(engine_startup):
 	# Create holdings Table
 	engine.execute('DROP TABLE IF EXISTS fund_holdings CASCADE; \
 		CREATE TABLE "fund_holdings" ( \
+		"index" varchar(10) PRIMARY KEY, \
 		"fund_name" varchar(255)   NOT NULL, \
 		"ticker" varchar(10)   NOT NULL, \
 		"security_name" varchar(255)   NOT NULL, \

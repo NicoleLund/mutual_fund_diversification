@@ -72,7 +72,7 @@ load_sql(engine_startup)
 
 # Load the database tables from the DataFrames
 sp500_df.to_sql(name='sp500', con=engine, if_exists='append')
-holdings_df.to_sql(name='fund_holdings', con=engine, if_exists='append',index=False)
+holdings_df.to_sql(name='fund_holdings', con=engine, if_exists='append')
 
 
 ######################################################################
