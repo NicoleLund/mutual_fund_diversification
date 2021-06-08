@@ -12,9 +12,16 @@ the holdings of 5 mutual funds.
 '''
 #######################################################################
 
-# Import Dependencies
-import pathlib
+# Import database password
 import sys
+sys.path.append(r"C:\Users\nlund\Documents\GitHub\untracked_files")
+from postgres_pswd import user_remote, passwd_remote, host_remote
+
+# Python SQL toolkit and Object Relational Mapper
+import sqlalchemy
+from sqlalchemy import create_engine
+
+# Import Dependencies
 import pandas as pd
 
 
@@ -56,10 +63,16 @@ print(sp500_df.info())
 ######################################################################
 # Load DataFrames to PostgreSQL database
 #######################################################################
-# from sql_load import load_sql
+from sql_load import load_sql
 
-# load_sql()
+load_sql(user_remote, passwd_remote, host_remote)
 
+# Create engine to mutual_funds
+engine_startup = 'postgresql://' + user_remote + ":" + passwd_remote + "@" + host_remote + '/mutual_funds'
+engine = create_engine(engine_startup)
+
+sp500_df.to_sql(name='sp500', con=engine, if_exists='append')
+holdings_df.to_sql(name='fund_holdings', con=engine, if_exists='append',index=False)
 
 ######################################################################
 # Perform Analysis Queries in PostgreSQL database

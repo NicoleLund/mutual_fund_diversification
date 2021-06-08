@@ -81,6 +81,6 @@ df_final = df.rename(columns={'Ticker': 'ticker',
                      'Market Value' : 'market_value',
                     })
 
-df_final.set_index('ticker')
+# df_final.set_index('ticker')
 
 # print(df_final)
