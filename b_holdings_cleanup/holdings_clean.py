@@ -15,7 +15,7 @@ import numpy as ny
 
 ################ Voya Index Plus LargeCap Portfolio ########################
 # Pull data 
-data_index_LC = "0_source_data/voya-index-plus-largecap-portfolio-monthly-holdings-xls.xls"
+data_index_LC = "a_source_data/voya-index-plus-largecap-portfolio-monthly-holdings-xls.xls"
 
 # Read and store into Pandas data frame
 read_index_LC = pd.read_excel(data_index_LC, skiprows=3)
@@ -25,7 +25,7 @@ index_LC_df.insert(0, 'fund_name', 'Voya Index Plus LargeCap Portfolio')
 
 
 ################ Voya LargeCap Growth Portfolio ########################
-data_LCG = "0_source_data/voya-large-cap-growth-portfolio-monthly-holdings-xls.xls"
+data_LCG = "a_source_data/voya-large-cap-growth-portfolio-monthly-holdings-xls.xls"
 
 # Read and store into Pandas data frame
 read_LCG = pd.read_excel(data_LCG, skiprows=3)
@@ -36,7 +36,7 @@ LCG_df.insert(0, 'fund_name', 'Voya LargeCap Growth Portfolio')
 
 ################ Voya LargeCap Value Portfolio ########################
 # Pull data 
-data_LCV = "0_source_data/voya-large-cap-value-portfolio-monthly-holdings-xls.xls"
+data_LCV = "a_source_data/voya-large-cap-value-portfolio-monthly-holdings-xls.xls"
 
 # Read and store into Pandas data frame
 read_LCV = pd.read_excel(data_LCV, skiprows=3)
@@ -47,7 +47,7 @@ LCV_df.insert(0, 'fund_name', 'Voya LargeCap Value Portfolio')
 
 ################ Voya Russell LargeCap Index Portfolio ########################
 # Pull data 
-data_RLC = "0_source_data/voya-russell-large-cap-index-portfolio-monthly-holdings-xls.xls"
+data_RLC = "a_source_data/voya-russell-large-cap-index-portfolio-monthly-holdings-xls.xls"
 
 # Read and store into Pandas data frame
 read_RLC = pd.read_excel(data_RLC, skiprows=3)
@@ -58,7 +58,7 @@ RLC_df.insert(0, 'fund_name', 'Voya Russell LargeCap Index Portfolio')
 
 ################ Voya U.S. Stock Index Portfolio ########################
 # Pull data 
-data_USSI = "0_source_data/voya-us-stock-index-portfolio-monthly-holdings-xls.xls"
+data_USSI = "a_source_data/voya-us-stock-index-portfolio-monthly-holdings-xls.xls"
 
 # Read and store into Pandas data frame
 read_USSI = pd.read_excel(data_USSI, skiprows=3)
@@ -81,6 +81,6 @@ df_final = df.rename(columns={'Ticker': 'ticker',
                      'Market Value' : 'market_value',
                     })
 
-df_final.set_index('ticker')
+# df_final.set_index('ticker')
 
 # print(df_final)

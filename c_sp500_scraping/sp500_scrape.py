@@ -52,4 +52,4 @@ sp500_df = sp500_df.set_index('ticker')
 # print(sp500_df.head())
 
 # Export DataFrame to csv
-sp500_df.to_csv('2_sp500_scraping/sp500.csv')
+sp500_df.to_csv('c_sp500_scraping/sp500.csv')
