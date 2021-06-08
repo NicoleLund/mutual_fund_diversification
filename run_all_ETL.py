@@ -13,6 +13,7 @@ the holdings of 5 mutual funds.
 #######################################################################
 
 # Import Dependencies
+import pathlib
 import sys
 import pandas as pd
 
@@ -55,7 +56,9 @@ print(sp500_df.info())
 ######################################################################
 # Load DataFrames to PostgreSQL database
 #######################################################################
+# from sql_load import load_sql
 
+# load_sql()
 
 
 ######################################################################
