@@ -28,6 +28,7 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
     * Merge into one Pandas DataFrame via Pandas concat function
     * Set index to ticker and fund_name columns
 * S&P 500  DataFrame Table:
+    * Remove extraneous columns
     * Set index to ticker column
 * All  DataFrame Tables
     * Confirm the data is clean
