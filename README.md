@@ -28,6 +28,7 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
     * Merge into one Pandas DataFrame via Pandas concat function
     * Set index to ticker and fund_name columns
 * S&P 500  DataFrame Table:
+    * Remove extraneous columns
     * Set index to ticker column
 * All  DataFrame Tables
     * Confirm the data is clean
@@ -38,17 +39,47 @@ Investigate the types of stock holdings of 5 Mutual Funds including the percenta
 * Pre-plan database schema using https://app.quickdatabasediagrams.com/
 * Use pandas and sqlalchemy to upload DataFrames to cloud-based SQL PostgreSQL database
 
+## Data Analysis
+*Replace with details*
+
 -----
 
 ## Repository Structure
 * a_source_data: Downloaded mutual fund holdings Excel files
-* 1_holdings_cleanup: Jupyter notebook converted into Python script for mutual fund holdings extraction and DataFrame cleanup
-* 2_sp500_scraping: Jupyter notebook converted into Python script for S&P 500 extraction and DataFrame cleanup
-* 3_database_diagram: Pre-planned PostgreSQL database schema scripts and diagram
-* 4_sql_load: SQL database loading scripts
-* 5_sql_analysis: SQL queries and database analysis
+* b_holdings_cleanup: 
+    * holdings_clean.ipynb: Jupyter notebook for developing the mutual fund holdings extraction and DataFrame cleanup technique.
+    * holdings_clean.py: Converts the essential elements of holdings_clean.ipynb to a callable script for use in run_all_ETL.py.
+    * fund_holdings.csv: CSV export of final DataFrame created in holdings_clean.ipynb.
+* c_sp500_scraping:  
+    * sp500_scrape.ipynb: Jupyter notebook for developing the S&P 500 extraction and DataFrame cleanup technique.
+    * sp500_scrape.py: Converts the essential elements of sp500_scrape.ipynb to a callable script for use in run_all_ETL.py.
+    * sp500.csv: CSV export of final DataFrame created in sp500_scrape.ipynb.
+* d_database_diagram: Pre-planned PostgreSQL database schema scripts and diagram for reference in sql_load.py
+* e_sql_load/sql_load.py: Callable script for creating the database tables.
+* f_sql_analysis: SQL queries and database analysis
+* postgres_pwd.py: User to update this file with their unique database host and credentials for use in run_all_ETL.py
+* project_etl_instructions.md: The initial assignment instructions for this project.
+* run_all_ETL.py: This script runs all of the ETL components in sequence.
 
 -----
+
+## Project Run Instructions
+1. Create a postgreSQL server and database
+2. Enter the database host url, name, username and password in postgres_pwd.py
+3. Execute run_all_ETL.py
+
+-----
+
+## Project Results
+This project performed ETL (Extract, Transform and Load) on stock market funds and a table of S&P 500 stocks.  The ETL process built a Database with the following Schema. 
+
+![Database Schema Diagram](d_database_diagram/Database_diagram.PNG)
+
+*Replace with further details*
+
+-----
+
+
 
 ## Citations
 * Ltd, D. T. (n.d.). QuickDBD. QuickDatabaseDiagrams. https://app.quickdatabasediagrams.com/. 

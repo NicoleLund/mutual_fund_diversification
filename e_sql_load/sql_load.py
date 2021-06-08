@@ -1,11 +1,26 @@
+#######################################################################
+'''
+sql_load.py
+----
+
+Written in the Python 3.7.9 Environment
+
+By Nicole Lund, Tarak Patel and Anne Niemiec
+
+This Python script accesses the user defined database to delete 
+any existing tables then initialize clean tables.
+
+The postgreSQL queries for creating the tables was defined in
+d_database_diagram\Schema.sql
+'''
+#######################################################################
+
 # Python SQL toolkit and Object Relational Mapper
 import sqlalchemy
 from sqlalchemy import create_engine
 
-def load_sql(user_remote, passwd_remote, host_remote):
+def load_sql(engine_startup):
 	# Create engine to mutual_funds
-	# engine = create_engine('postgresql://scott:tiger@localhost:5432/mydatabase')
-	engine_startup = 'postgresql://' + user_remote + ":" + passwd_remote + "@" + host_remote + '/mutual_funds'
 	engine = create_engine(engine_startup)
 
 	# Create S&P 500 Table
@@ -32,8 +47,3 @@ def load_sql(user_remote, passwd_remote, host_remote):
 		"quantity" decimal   NOT NULL, \
 		"market_value" decimal   NOT NULL\
 	);')
-
-
-# if __name__ == '__main__':
-#     load_sql()
-    

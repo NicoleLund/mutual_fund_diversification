@@ -1,10 +1,14 @@
 ###################################################################
 # holdings_clean.ipynb - Holdings file Clean
 # by Tarak Patel
-
-# This is Python script for cleanup of 5 Portfolio holdings excel file donloaded from https://individuals.voya.com/product/variable-portfolio/holdings/monthly
-
-# Combining all the df into one df to upload to SQL
+#
+# This is Python script for cleanup of 5 Portfolio holdings excel file 
+# downloaded from
+# https://individuals.voya.com/product/variable-portfolio/holdings/monthly
+#
+# Then it combines all the df into one df to upload to SQL.
+#
+# This script was converted from holdings_clean.ipynb
 ####################################################################
 
 
@@ -80,7 +84,3 @@ df_final = df.rename(columns={'Ticker': 'ticker',
                      'Quantity' : 'quantity',
                      'Market Value' : 'market_value',
                     })
-
-# df_final.set_index('ticker')
-
-# print(df_final)
