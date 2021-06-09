@@ -22,6 +22,8 @@ gics_sub_industry varchar(255)
 
 fund_holdings
 -
+index PK varchar(10)
+fund_name varchar(255)
 ticker varchar(10) FK >- sp500.ticker
 security_name varchar(255)
 currency varchar(5)
@@ -29,4 +31,3 @@ country varchar(50)
 price decimal
 quantity decimal
 market_value decimal
-fund_name varchar(255)

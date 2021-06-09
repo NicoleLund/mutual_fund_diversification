@@ -2,13 +2,9 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/rQca87
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
--- Modify this code to update the DB schema diagram.
--- To reset the sample schema, replace everything with
--- two dots ('..' - without quotes).
-
 --------------------------------------------------------------------------------
 --
--- Schemas.sql
+-- Schema.sql
 -- 
 -- By Anne Niemiec 
 -- 
@@ -30,6 +26,8 @@ CREATE TABLE "sp500" (
 );
 
 CREATE TABLE "fund_holdings" (
+    "index" varchar(10)   NOT NULL,
+    "fund_name" varchar(255)   NOT NULL,
     "ticker" varchar(10)   NOT NULL,
     "security_name" varchar(255)   NOT NULL,
     "currency" varchar(5)   NOT NULL,
@@ -37,9 +35,10 @@ CREATE TABLE "fund_holdings" (
     "price" decimal   NOT NULL,
     "quantity" decimal   NOT NULL,
     "market_value" decimal   NOT NULL,
-    "fund_name" varchar(255)   NOT NULL
+    CONSTRAINT "pk_fund_holdings" PRIMARY KEY (
+        "index"
+     )
 );
 
 ALTER TABLE "fund_holdings" ADD CONSTRAINT "fk_fund_holdings_ticker" FOREIGN KEY("ticker")
 REFERENCES "sp500" ("ticker");
-
