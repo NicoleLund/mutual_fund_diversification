@@ -26,6 +26,9 @@ if host == 'YOUR DATABASE HOST HERE':
     sys.path.append(r"C:\Users\nlund\Documents\GitHub\untracked_files")
     from postgres_remote import host, database, username, passwd
 
+# Define how many sectors to display in the output of the sector analysis
+output='top3'
+
 # Create engine to mutual_funds database
 engine_startup = 'postgresql://' + username + ":" + passwd + "@" + host + '/' + database
 engine = create_engine(engine_startup)
@@ -78,4 +81,6 @@ holdings_df.to_sql(name='fund_holdings', con=engine, if_exists='append')
 ######################################################################
 # Perform Analysis Queries in PostgreSQL database
 #######################################################################
-
+# Analyze the database tables
+from sql_analysis import analyze_sql
+analyze_sql(engine_startup,output)
