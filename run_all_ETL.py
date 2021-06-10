@@ -21,6 +21,8 @@ import sqlalchemy
 from sqlalchemy import create_engine
 
 # Import database password
+# Note: user needs to update postgres_pswd.py file with their database information or
+# point to a personal untracked file
 from postgres_pswd import host, database, username, passwd
 if host == 'YOUR DATABASE HOST HERE':
     sys.path.append(r"C:\Users\nlund\Documents\GitHub\untracked_files")

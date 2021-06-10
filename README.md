@@ -10,7 +10,7 @@ Investors want to avoid mutual funds that contain similar holdings to what alrea
 
 This project collects mutual fund holdings data and S&P 500 data within a common database for analysis using an Extract, Transform, Load (ETL) pipeline.  Then SQL queries are run to determine if the selected funds can build a diversified portfolio.  SQL queries of interest include:
 * Determining the percentage of S&P 500 companies included within each mutual fund and analyzing what percent of the entire portfolio is represented by S&P 500 securities to explain the diversification of the portfolio.
-    * As an example, index funds map to the S&P 500 list so investors expect to see <mark>80-100%</mark> of the index fund holdings containing S&P 500 securities. If an investor wants to purchase shares in an index fund, then they would want to include other mutual funds within their portfolio that contain less than <mark>20%</mark> of S&P 500 companies in their holdings to increase diversification.
+    * As an example, index funds map to the S&P 500 list so investors expect to see 80-100% of the index fund holdings containing S&P 500 securities. If an investor wants to purchase shares in an index fund, then they would want to include other mutual funds within their portfolio that contain less than 20% of S&P 500 companies in their holdings to increase diversification. Good examples would include Mid/Small Cap, International and fixed income mutual funds.
 * Determining the statistics on sectors of stock holdings for the mutual funds to review an alternate diversification metric.
 
 ## Data Sources
