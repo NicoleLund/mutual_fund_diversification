@@ -1,4 +1,6 @@
-# UofA Data Analytics Bootcamp Project 2 - ETL (Extract, Transform, Load)
+# mutual_fund_diversification
+
+UofA Data Analytics Bootcamp Project 2 - ETL (Extract, Transform, Load)
 
 **Team**:  Tarak Patel, Nicole Lund, and Anne Niemiec
 
